@@ -1,0 +1,20 @@
+---
+title: "2007 Biotropica Award for Excellence in Tropical Biology and Conservation"
+date: "2007"
+author: ["Heraldo L. Vasconcelos"]
+publication: "Biotropica"
+volume: "39"
+number: "5"
+pages: "668-669"
+doi: "10.1111/j.1744-7429.2007.00349.x"
+abstract: "none"
+categories: 
+  - 
+url: "https://onlinelibrary.wiley.com/doi/10.1111/j.1744-7429.2007.00349.x"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biotropica_2007_125/cite.bib'
+pdf: './articles/biotropica_2007_125/Vasconcelos_2007.pdf'
+---

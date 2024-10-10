@@ -1,5 +1,5 @@
 ---
-title: Plant demography in fragmented landscapes
+title: 'Plant demography in fragmented landscapes'
 image: featured.jpg
 alias: &ALIAS heliconia
 # listing:
@@ -12,23 +12,23 @@ alias: &ALIAS heliconia
 #   include:
 #     categories: *ALIAS
 #   fields: [publication, title, categories, image, date, author]
-
----
-![*Heliconia acuminata* is pollinated by *Phaethornis* hummingbirds. (Photo: EM Bruna)'](./featured.jpg)
-
-Plants in fragmented habitats are hypothesized to be at increased risk of extinction,yet the effects of fragmentation on plant population dynamics are for the most part unexplored. Our lab is doing so, using a combination of demographic surveys, manipulative experiments,and models. Our model system is populations of the Amazonian understory herb Heliconia acuminata in 13 permanent plots at the Biological Dynamics of Forest Fragments Project.Collaborators on this project include Maria Uriarte  and Marina Correa Cortes (UNESP), Ana Andrade (BDFFP), W. John Kress (Smithsonian), Paulo Rubim (UFSCar), Paul Gagnon (Murray State University), and Maria Rosa Darrigo (UF).
-
-tags:
+categories:
 - Habitat Fragmentation
 - Amazonia
 - Plant Demography
 - Plant-Animal Interactions
 - BDFFP
 - Brazil
+description: 'Plants in fragmented habitats are hypothesized to be at increased risk of extinction,yet the effects of fragmentation on plant population dynamics are for the most part unexplored. Our lab is doing so, using a combination of demographic surveys, manipulative experiments,and models. Our model system is populations of the Amazonian understory herb Heliconia acuminata in 13 permanent plots at the Biological Dynamics of Forest Fragments Project.Collaborators on this project include Maria Uriarte  and Marina Correa Cortes (UNESP), Ana Andrade (BDFFP), W. John Kress (Smithsonian), Paulo Rubim (UFSCar), Paul Gagnon (Murray State University), and Maria Rosa Darrigo (UF).'
 
 
-## Related Publications
+---
+![*Heliconia acuminata* is pollinated by *Phaethornis* hummingbirds. (Photo: EM Bruna)'](./featured.jpg)
 
 
-:::{#pubs}
-:::
+
+<!-- ## Related Publications -->
+
+
+<!-- :::{#pubs} -->
+<!-- ::: -->

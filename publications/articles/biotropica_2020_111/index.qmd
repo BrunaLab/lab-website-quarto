@@ -1,0 +1,20 @@
+---
+title: "Tropical Biology and Conservation in the Time of the COVID-19 Pandemic"
+date: "2020"
+author: ["Jennifer S. Powers", "Emilio M. Bruna", "Ahimsa Campos-Arceiz", "Patricia Delamonica Sampaio", "Saara J. DeWalt", "Lucia G. Lohmann", "Rakan A. Zahawi"]
+publication: "Biotropica"
+volume: "52"
+number: "3"
+pages: "399-399"
+doi: "10.1111/btp.12802"
+abstract: "none"
+categories: 
+  - 
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.12802"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biotropica_2020_111/cite.bib'
+pdf: './articles/biotropica_2020_111/Powers_et_al_2020.pdf'
+---

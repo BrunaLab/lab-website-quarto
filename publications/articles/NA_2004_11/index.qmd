@@ -1,0 +1,20 @@
+---
+title: "The Biological Consequences of Deforestation and Habitat Fragmentation."
+date: "2004"
+author: ["E. M. Bruna"]
+publication: "NA"
+volume: "none"
+number: "none"
+pages: "85-90"
+doi: "none"
+abstract: "none"
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/NA_2004_11/cite.bib'
+pdf: './articles/NA_2004_11/Bruna_2004_Enc_For_Scipdf_NA.pdf'
+---

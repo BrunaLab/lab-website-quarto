@@ -12,21 +12,19 @@ image: featured.jpg
 #   include:
 #     categories: *ALIAS
 #   fields: [publication, title, categories, image, date, author]
----
-
-![*Maieta guianensis* (Melastomataceae), a myrmecophytic shrub from the central Amazon. (Photo: Brian Inouye)](./featured.jpg)
-
-
-
-  
-tags:
+categories:
 - plant demography
 - Amazonia
 - Plant Demography
 - Plant-Animal Interactions
 - BDFFP
 - mutualisms
+description: Ants that establish colonies inside of plants and in return defend their host-plants from herbivores are one of the defining features of lowland tropical forests, yet they have remained conspicuously overlooked by conservation biologists. My collaborators and I are investigating 1) the factors structuring ant communities associated with these plants and 2) how fragmentation-related changes in the density and diversity of ants, host-plants, and herbivores influence mutualism dynamics. Collaborators on this project include Heraldo Vasconcelos (Universidade Federal de Uberlandia), Brian Inouye (Florida State University), Thiago Izzo (Universidade Federal de Mato Grosso), Charlotte Lee (FSU), Heather Passmore (UF).
+---
 
 
-Ants that establish colonies inside of plants and in return defend their host-plants from herbivores are one of the defining features of lowland tropical forests, yet they have remained conspicuously overlooked by conservation biologists. My collaborators and I are investigating 1) the factors structuring ant communities associated with these plants and 2) how fragmentation-related changes in the density and diversity of ants, host-plants, and herbivores influence mutualism dynamics. Collaborators on this project include Heraldo Vasconcelos (Universidade Federal de Uberlandia), Brian Inouye (Florida State University), Thiago Izzo (Universidade Federal de Mato Grosso), Charlotte Lee (FSU), Heather Passmore (UF).
+
+![*Maieta guianensis* (Melastomataceae), a myrmecophytic shrub from the central Amazon. (Photo: Brian Inouye)](./featured.jpg)
+
+
 

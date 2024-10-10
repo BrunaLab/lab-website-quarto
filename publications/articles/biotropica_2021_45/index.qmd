@@ -1,0 +1,23 @@
+---
+title: "A Proposal to Advance Theory and Promote Collaboration in Tropical Biology by Supporting Replications"
+date: "2021"
+author: ["Emilio M. Bruna", "Robin Chazdon", "Timothy M. Errington", "Brian A. Nosek"]
+publication: "Biotropica"
+volume: "53"
+number: "1"
+pages: "6-10"
+doi: "10.1111/btp.12912"
+abstract: "none"
+categories: 
+  - ecology
+  - network
+  - registered reports
+  - reproducibility
+url: "https://onlinelibrary.wiley.com/doi/10.1111/btp.12912"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biotropica_2021_45/cite.bib'
+pdf: './articles/biotropica_2021_45/Bruna_et_al_2021.pdf'
+---

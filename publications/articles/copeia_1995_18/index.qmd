@@ -1,0 +1,22 @@
+---
+title: "Cryptic Species of Pacific Skinks (Emoia): Further Support from Mitochondrial DNA Sequences"
+date: "1995"
+author: ["Emilio M. Bruna", "Robert N. Fisher", "Ted J. Case"]
+publication: "Copeia"
+volume: "1995"
+number: "4"
+pages: "981"
+doi: "10.2307/1447050"
+abstract: "none"
+categories: 
+  - evolution
+  - lizards
+  - scincidae
+url: "https://www.jstor.org/stable/1447050?origin = crossref"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/copeia_1995_18/cite.bib'
+pdf: './articles/copeia_1995_18/Bruna_et_al_1995.pdf'
+---

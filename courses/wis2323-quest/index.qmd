@@ -16,7 +16,7 @@ image: featured.jpeg
 
 
 
-_Undergraduate, 3 credits, Fall Semester (annually) _
+_Undergraduate, 3 credits, Fall Semester_
 
 ## Course Objectives  
 

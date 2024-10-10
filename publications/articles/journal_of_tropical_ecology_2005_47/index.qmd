@@ -1,0 +1,20 @@
+---
+title: "Regeneration and Population Structure of Heliconia Acuminata in Amazonian Secondary Forests with Contrasting Land-Use Histories"
+date: "2005"
+author: ["E. M. Bruna", "M. B. Nogueira Ribeiro"]
+publication: "Journal of Tropical Ecology"
+volume: "21"
+number: "none"
+pages: "127-131"
+doi: "none"
+abstract: "none"
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/journal_of_tropical_ecology_2005_47/cite.bib'
+pdf: './articles/journal_of_tropical_ecology_2005_47/Bruna_and_Ribeiro_2005.pdf'
+---

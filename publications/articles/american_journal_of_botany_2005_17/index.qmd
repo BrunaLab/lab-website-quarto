@@ -1,0 +1,29 @@
+---
+title: "The Compensatory Responses of an Understory Herb to Experimental Damage Are Habitat‐dependent"
+date: "2005"
+author: ["Emilio M. Bruna", "Maria Beatriz Nogueira Ribeiro"]
+publication: "American Journal of Botany"
+volume: "92"
+number: "12"
+pages: "2101-2106"
+doi: "10.3732/ajb.92.12.2101"
+abstract: "none"
+categories: 
+  - canopy gaps
+  - geonoma-congesta
+  - growth-responses
+  - heliconia-acuminata
+  - neotropical pioneers
+  - palm
+  - physical damage
+  - seedling mortality
+  - tree seedlings
+  - tropical rain-forest
+url: "https://onlinelibrary.wiley.com/doi/10.3732/ajb.92.12.2101"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/american_journal_of_botany_2005_17/cite.bib'
+pdf: './articles/american_journal_of_botany_2005_17/Bruna_and_Ribeiro_2005.pdf'
+---

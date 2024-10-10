@@ -1,0 +1,22 @@
+---
+title: "Fire Drives the Reproductive Responses of Herbaceous Plants in a Neotropical Swamp"
+date: "2013"
+author: ["Glein M. Araujo", "Alice F. Amaral", "Emilio M. Bruna", "Heraldo L. Vasconcelos"]
+publication: "Plant Ecology"
+volume: "214"
+number: "12"
+pages: "1479-1484"
+doi: "10.1007/s11258-013-0268-9"
+abstract: "none"
+categories: 
+  - brazil
+  - cerrado
+  - florida
+url: "http://link.springer.com/10.1007/s11258-013-0268-9"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/plant_ecology_2013_1/cite.bib'
+pdf: './articles/plant_ecology_2013_1/Araujo_etal_2013_PlantEcology.pdf'
+---

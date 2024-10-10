@@ -1,0 +1,29 @@
+---
+title: "Changes in Tree Reproductive Traits Reduce Functional Diversity in a Fragmented Atlantic Forest Landscape"
+date: "2007"
+author: ["Luciana Coe Girao", "Ariadna Valentina Lopes", "Marcelo Tabarelli", "Emilio M. Bruna"]
+publication: "PLoS ONE"
+volume: "2"
+number: "e908"
+pages: "e908"
+doi: "10.1371/journal.pone.0000908"
+abstract: "none"
+categories: 
+  - biodiversity
+  - community
+  - conservation
+  - edge
+  - habitat fragmentation
+  - patterns
+  - pollination
+  - rain-forest
+  - recruitment
+  - seed dispersal
+url: "https://dx.plos.org/10.1371/journal.pone.0000908"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/plos_one_2007_80/cite.bib'
+pdf: './articles/plos_one_2007_80/Girão_et_al_2007.pdf'
+---

@@ -1,0 +1,29 @@
+---
+title: "Growth of an Understory Herb Is Chronically Reduced in Amazonian Forest Fragments"
+date: "2011"
+author: ["Paul R. Gagnon", "Emilio M. Bruna", "Paulo Rubim", "Maria Rosa Darrigo", "Ramon C. Littell", "Maria Uriarte", "W. John Kress"]
+publication: "Biological Conservation"
+volume: "144"
+number: "2"
+pages: "830-835"
+doi: "10.1016/j.biocon.2010.11.015"
+abstract: "The biotic and abiotic changes associated with habitat fragmentation have been shown to have major consequences for plant recruitment and survivorship. However, few studies have quantified the growth of plants that persist in fragments. Over the course of a decade, we measured annual growth of 5200 individuals of the common understory herb Heliconia acuminata (Heliconiaceae) in an experimentally fragmented Amazonian forest. We tested (A) whether annual growth rates were lower in fragments than in continuous forest, and (B) whether cumulative growth rates of plants that survived the entire period were lower in fragments. While mean annual growth rates were often lower in fragments, differences were not significant in any year. After 10 years, however, the cumulative effect was that plants in fragments were significantly smaller. This had a clear demographic consequence – plants in fragments produced fewer inflorescences than plants in continuous forest. Our results demonstrate that chronic reduced individual growth may be an important mechanism contributing to reduced population viability in fragmented forests, and that negative demographic consequences of fragmentation for plants can take years to manifest themselves."
+categories: 
+  - brazilian amazon
+  - edge
+  - habitat fragmentation
+  - heliconia-acuminata
+  - plant-populations
+  - recruitment
+  - responses
+  - tree communities
+  - tropical rain-forest
+  - vegetation
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0006320710004854"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biological_conservation_2011_79/cite.bib'
+pdf: './articles/biological_conservation_2011_79/Gagnon_et_al_2011.pdf'
+---

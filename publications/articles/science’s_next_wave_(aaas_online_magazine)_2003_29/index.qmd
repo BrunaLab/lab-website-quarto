@@ -1,0 +1,20 @@
+---
+title: "For the Love of Nature"
+date: "2003"
+author: ["Bruna, Emilio"]
+publication: "Science’s Next Wave (AAAS Online Magazine)"
+volume: "none"
+number: "none"
+pages: "none"
+doi: "none"
+abstract: "none"
+categories: 
+  - 
+url: "https://www.science.org/content/article/love-nature"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/science’s_next_wave_(aaas_online_magazine)_2003_29/cite.bib'
+pdf: './articles/science’s_next_wave_(aaas_online_magazine)_2003_29/love-naturehtml_NA.pdf'
+---

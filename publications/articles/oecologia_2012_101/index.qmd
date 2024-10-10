@@ -1,0 +1,29 @@
+---
+title: "Attack Frequency and the Tolerance to Herbivory of Neotropical Savanna Trees"
+date: "2012"
+author: ["Fabiane M. Mundim", "Emilio M. Bruna", "Ernane H. M. Vieira-Neto", "Heraldo L. Vasconcelos"]
+publication: "Oecologia"
+volume: "168"
+number: "2"
+pages: "405-414"
+doi: "10.1007/s00442-011-2088-8"
+abstract: "none"
+categories: 
+  - apical dominance
+  - community structure
+  - damage
+  - forest
+  - gentianella-campestris
+  - growth
+  - plant defense
+  - resistance
+  - responses
+  - selection
+url: "http://link.springer.com/10.1007/s00442-011-2088-8"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/oecologia_2012_101/cite.bib'
+pdf: './articles/oecologia_2012_101/Mundim_et_al_2012.pdf'
+---

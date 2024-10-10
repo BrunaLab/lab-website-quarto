@@ -1,0 +1,29 @@
+---
+title: "Effects of Forest Fragmentation on Heliconia Acuminata Seedling Recruitment in Central Amazonia"
+date: "2002"
+author: ["Emilio M. Bruna"]
+publication: "Oecologia"
+volume: "132"
+number: "2"
+pages: "235-243"
+doi: "10.1007/s00442-002-0956-y"
+abstract: "I present the results of a 2-year experiment comparing seed predation, seed germination, and seedling survivorship patterns of the Amazonian understory herb Heliconia acuminata in forest fragments and continuous forest. These empirical results were compared with natural patterns of recruitment in permanent 5,000 m2 demographic plots adjacent to experimental areas. The number of naturally occurring seedlings established in demographic plots was 1.5–6 times greater in continuous forest than it was in 1-ha or 10-ha fragments. This result mirrors the pattern of seedling establishment in experimental transects, in which seeds in fragments were 3–7 times less likely to become established than those in continuous forest. Predation of experimentally sown seeds was extremely low at all sites, and is therefore not responsible for the observed pattern. Instead, reductions in seedling abundance in forest fragments are probably due to lower levels of seed germination. Forest fragments have higher air and soil temperatures, lower relative humidity, and increased leaf-litter accumulation, all of which can alter the cues used to initiate germination. While the growth of seedlings was similar in forest fragments and continuous forest, seedling survivorship in fragments was highly variable. These results suggest that altered environmental conditions may exacerbate reductions in plant recruitment resulting from modified plant-animal interactions. Strategies aimed at reducing the intensity of abiotic edge effects should therefore be incorporated into plant conservation efforts."
+categories: 
+  - anthropogenic edges
+  - atlantic forest
+  - germination
+  - habitat fragmentation
+  - leaf-litter decomposition
+  - physical damage
+  - plant litter
+  - population-size
+  - predation
+  - tropical rain-forest
+url: "http://link.springer.com/10.1007/s00442-002-0956-y"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/oecologia_2002_26/cite.bib'
+pdf: './articles/oecologia_2002_26/Bruna_2002.pdf'
+---

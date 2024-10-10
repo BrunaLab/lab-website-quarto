@@ -1,0 +1,20 @@
+---
+title: "On Identifying Rising Stars in Ecology"
+date: "2014"
+author: ["Emilio M. Bruna"]
+publication: "Bioscience"
+volume: "64"
+number: "3"
+pages: "169"
+doi: "10.1093/biosci/biu003"
+abstract: "none"
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/bioscience_2014_37/cite.bib'
+pdf: './articles/bioscience_2014_37/Bruna_2014.pdf'
+---

@@ -1,0 +1,20 @@
+---
+title: "A Biologist's Guide to Fragmenting the Amazon (Including Why That's a Bad Idea)"
+date: "2002"
+author: ["Emilio M. Bruna"]
+publication: "Conservation Biology"
+volume: "16"
+number: "5"
+pages: "1446-1448"
+doi: "10.1046/j.1523-1739.2002.01124.x"
+abstract: "none"
+categories: 
+  - 
+url: "http://doi.wiley.com/10.1046/j.1523-1739.2002.01124.x"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/conservation_biology_2002_13/cite.bib'
+pdf: './articles/conservation_biology_2002_13/Bruna_2002.pdf'
+---

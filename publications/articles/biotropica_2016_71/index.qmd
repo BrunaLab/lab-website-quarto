@@ -1,0 +1,24 @@
+---
+title: "Neotropical White-sand Forests: Origins, Ecology and Conservation of a Unique Rain Forest Environment"
+date: "2016"
+author: ["Paul V. A. Fine", "Emilio M. Bruna"]
+publication: "Biotropica"
+volume: "48"
+number: "1"
+pages: "5-6"
+doi: "10.1111/btp.12305"
+abstract: "none"
+categories: 
+  - communities
+  - diversity
+  - endemism
+  - lineage
+  - vegetation
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.12305"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biotropica_2016_71/cite.bib'
+pdf: './articles/biotropica_2016_71/Fine_and_Bruna_2016.pdf'
+---

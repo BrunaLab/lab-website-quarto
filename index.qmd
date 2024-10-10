@@ -1,36 +1,59 @@
 ---
-# title: 'The Bruna Lab: <span style="color:#238456">Tropical Ecology & Conservation</span>'
-# subtitle: "light-matter theory at the nanoscale"
+title: 'THE BRUNA LAB | <span style="color:#238456">University of Florida</span>'
+# subtitle: '<span style="color:#238456">University of Florida</span>'
 page-layout: full
 ---
-<div class="gradient-text">
+<!-- <br> -->
 
-<div class="welcome-headline">
-Welcome to the Bruna Lab<br>
-</div>
-<div class="welcome-subheadline">
-Tropical Ecology & Conservation
-</div>
-</div>
-
-::::{.cmm-background}
-::: {.content-container}
-::: {.welcome }
+<!-- <div class="gradient-text"> -->
+<!-- <div class="welcome-headline"> -->
+<!-- THE BRUNA LAB -->
+<!-- <!-- <br> -->
+<!-- </div> -->
+<!-- <div class="welcome-subheadline"> -->
+<!-- University of Florida -->
+<!-- </div> -->
+<!-- <br> -->
 
 
-::: grid
-::: {.g-col-12 .g-col-lg-4 .welcome-text .sand-background style="padding: 15px;"}
+:::: {layout="[ 38, 62 ]"}
 
-Our goal is to understand the consequences of deforestation, habitat fragmentation, climate change, and other human activities for plant-animal interactions and plant population dynamics. While we work in many ecosystems, most of our research is conducted in tropical rain forests and savannas.
+::: {#first-column}
 
 
+**We study the ecological consequences of deforestation, habitat fragmentation, climate change, and other human activities, with a particular interest in population dynamics and interspecific interactions. While we work in many ecosystems with a diversity of species, most of our research is conducted in tropical rain forests and savannas.**
+
+<a class="btn btn-primary" href="news/index.qmd" role="button">The Bruna Lab in the News</a>. 
+
+
+<!-- <a class="btn btn-outline-primary btn-sm" href="#" role="button">Link</a>.  -->
 :::
 
+::: {#second-column}
+![](./images/br174.jpg)
 :::
 
-
-
-:::
-:::
 ::::
 
+
+    
+
+<!-- :::: {layout="[ 25, 25, 25, 25 ]"} -->
+
+<!-- ::: {#first-column} -->
+<!-- <!-- ![](./images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png) --> -->
+<!-- ::: -->
+
+<!-- ::: {#second-column} -->
+<!-- <!-- ![](./images/wec.png) --> 
+<!-- ::: -->
+
+<!-- ::: {#third-column} -->
+<!-- <!-- ![](./images/bitr.png) -->
+<!-- ::: -->
+
+<!-- ::: {#fourth-column} -->
+<!-- ![](./images/atbc.png) -->
+<!-- ::: -->
+
+<!-- ::: -->

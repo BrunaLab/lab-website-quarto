@@ -1,0 +1,29 @@
+---
+title: "Delayed Effects of Climate on Vital Rates Lead to Demographic Divergence in Amazonian Forest Fragments"
+date: "2021"
+author: ["Eric R. Scott", "Maria Uriarte", "Emilio M. Bruna"]
+publication: "Global Change Biology"
+volume: ""
+number: "n/a"
+pages: "none"
+doi: "10.1111/gcb.15900"
+abstract: "Deforestation often results in landscapes where remaining forest habitat is highly fragmented, with remnants of different sizes embedded in an often highly contrasting matrix. Local extinction of species from individual fragments is common, but the demographic mechanisms underlying these extinctions are poorly understood. It is often hypothesized that altered environmental conditions in fragments drive declines in reproduction, recruitment, or survivorship. The Amazon basin, in addition to experiencing continuing fragmentation, is experiencing climate change-related increases in the frequency and intensity of droughts and unusually wet periods. Whether plant populations in tropical forest fragments are particularly susceptible to extremes in precipitation remains unclear. Most studies of plants in fragments are relatively short (1–6 years), focus on a single life-history stage, and often do not compare to populations in continuous forest. Even fewer studies consider delayed effects of climate on demographic vital rates despite the importance of delayed effects in studies that consider them. Using a decade of demographic and climate data from an experimentally fragmented landscape in the Central Amazon, we assess the effects of climate on populations of an understory herb (Heliconia acuminata, Heliconiaceae). We used distributed lag nonlinear models to understand the delayed effects of climate (measured as standardized precipitation evapotranspiration index, SPEI) on survival, growth, and flowering. We detected delayed effects of climate up to 36 months. Extremes in SPEI in the previous year reduced survival, drought in the wet season 8–11 months prior to the February census increased growth, and drought two dry seasons prior increased flowering probability. Effects of extremes in precipitation on survival and growth were more pronounced in forest fragments compared to continuous forest. The complex delayed effects of climate and habitat fragmentation in our study point to the importance of long-term demography experiments in understanding the effects of anthropogenic change on plant populations."
+categories: 
+  - drought
+  - dynamics
+  - el-nino
+  - global patterns
+  - habitat fragmentation
+  - nino southern-oscillation
+  - plant-populations
+  - seedling recruitment
+  - tropical rain-forest
+  - understory herb
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15900"
+image: featured.png
+url_preprint: ""
+url_code: "https://zenodo.org/records/5608621"
+url_dataset: "https://zenodo.org/records/5608621"
+bib: './articles/global_change_biology_2021_116/cite.bib'
+pdf: './articles/global_change_biology_2021_116/Scott_et_al_2021.pdf'
+---

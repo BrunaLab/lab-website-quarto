@@ -1,0 +1,29 @@
+---
+title: "Seedling Co-Tolerance of Multiple Stressors in a Disturbed Tropical Floodplain Forest"
+date: "2013"
+author: ["Christine M. Lucas", "Emilio M. Bruna", "Cristiane M. N. Nascimento"]
+publication: "Ecosphere"
+volume: "4"
+number: "3"
+pages: "art3"
+doi: "10.1890/ES12-00287.1"
+abstract: "Differential stress tolerance among species is a central concept for understanding coexistence in diverse ecosystems. Although multiple co-occurring stressors are present in many ecosystems, relatively little is understood as to how communities are shaped by interacting stressors at multiple scales. We use a regression design to test the effects of two environmental stress gradients, flooding and shade, as well as herbivore activity, mechanical damage, on first-year transplanted seedling survival and growth in twentyone common garden plots in secondary Amazonian floodplain forests. Among ten woody species varying in flood and shade tolerance, half of the seedlings were clipped at 5 cm aboveground, removing ;50% of plant biomass. Damage reduced seedling survival by ;50% and aboveground biomass by 94% of undamaged seedlings. Despite declines in relative growth rates with increasing flood duration, the survival of most flood-tolerant species was unaffected by variation in prolonged submergence of 3–6 months. Meanwhile, low-flood-tolerant species displayed clear thresholds in survival of flood duration ,150 d. The effects of all three stressors were largely independent, with the exception of two species whereby light availability interacted with flood duration to enhance seedling survival during prolonged floods and one species whereby flood duration interacted with damage. Trade-offs in stress tolerance among species were not apparent. Rather, damage, shade, and flood tolerance among species were all positively correlated, suggesting that combined stresses favor the persistence of a few highly stress-tolerant species—characterized by slow growth rates, high root:shoot ratios, and short stems—in this disturbed ecosystem. This study highlights the importance of dry season stressors (e.g., light availability, herbivore activity, and drought) as strong selective forces for the establishment and persistence of tropical floodplain communities. Furthermore, in an ecosystem where relatively little is known as to how seedlings persist in forest understories, we demonstrate how biotic and abiotic stressors ultimately shape woody species composition and richness."
+categories: 
+  - amazon
+  - drought
+  - luquillo mountains
+  - plant-responses
+  - regeneration
+  - size
+  - species distribution
+  - strategies
+  - trees
+  - varzea forests
+url: "http://doi.wiley.com/10.1890/ES12-00287.1"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/ecosphere_2013_99/cite.bib'
+pdf: './articles/ecosphere_2013_99/Lucas_et_al_2013.pdf'
+---

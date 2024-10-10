@@ -1,5 +1,6 @@
 ---
-title: The structure of scientific institutions & networks
+title: 'The structure of scientific institutions & networks'
+subtitle: 'science'
 alias: &ALIAS science_of_science
 image: featured.jpg
 # listing:
@@ -13,18 +14,17 @@ image: featured.jpg
 #     categories: *ALIAS
 #   fields: [publication, title, categories, image, date, author]
 
+description: 'We are studying scientific communities in Latin America, especially (a) factors that influence within- and between-country patterns of scientific productivity, (b) the role of international collaboration on the impact of scientists and their research, and (c) the structure of scientific institutions and networks.'
+
+categories:
+- Scientometrics
+- Metascience
+- Editorial Boards
+- Collaboration
 ---
 
 
 ![Coauthorship network of all articles in 55 ecological journals from 2010-2010 that include at least one coauthor from Costa Rica (Bruna & Hahn, unpubl. data).](./featured.jpg)
 
   
-tags:
-- Scientometrics
-- Metascience
-- Editorial Boards
-- Collaboration
 
-
-
-We are studying scientific communities in Latin America, especially (a) factors that influence within- and between-country patterns of scientific productivity, (b) the role of international collaboration on the impact of scientists and their research, and (c) the structure of scientific institutions and networks. 

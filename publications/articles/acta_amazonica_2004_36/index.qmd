@@ -1,0 +1,20 @@
+---
+title: "\emphHeliconia Acuminata Reproductive Success Is Independent of Local Floral Density"
+date: "2004"
+author: ["Emilio M. Bruna", "W. John Kress", "Francisco Marques", "Osmaildo Ferreira da Silva"]
+publication: "Acta Amazonica"
+volume: "34"
+number: "3"
+pages: "467-471"
+doi: "none"
+abstract: "none"
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/acta_amazonica_2004_36/cite.bib'
+pdf: './articles/acta_amazonica_2004_36/Bruna_et_al_2004.pdf'
+---

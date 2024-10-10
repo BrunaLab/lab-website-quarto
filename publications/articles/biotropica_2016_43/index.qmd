@@ -1,0 +1,20 @@
+---
+title: "A New Data Archiving Policy for \emphBiotropica"
+date: "2016"
+author: ["Emilio M. Bruna", "Marielos Pena-Claros", "Bryan Finegan", "Beth A. Kaplin"]
+publication: "Biotropica"
+volume: "48"
+number: "2"
+pages: "139-140"
+doi: "10.1111/btp.12318"
+abstract: "none"
+categories: 
+  - 
+url: "https://onlinelibrary.wiley.com/doi/10.1111/btp.12318"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biotropica_2016_43/cite.bib'
+pdf: './articles/biotropica_2016_43/Bruna_et_al_2016.pdf'
+---

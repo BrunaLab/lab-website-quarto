@@ -1,0 +1,29 @@
+---
+title: "Longevity Can Buffer Plant and Animal Populations against Changing Climatic Variability"
+date: "2008"
+author: ["William F. Morris", "Catherine A. Pfister", "Shripad Tuljapurkar", "Chirrakal V. Haridas", "Carol L. Boggs", "Mark S. Boyce", "Emilio M. Bruna", "Don R. Church", "Tim Coulson", "Daniel F. Doak", "Stacey Forsyth", "Jean-Michel Gaillard", "Carol C. Horvitz", "Susan Kalisz", "Bruce E. Kendall", "Tiffany M. Knight", "Charlotte T. Lee", "Eric S. Menges"]
+publication: "Ecology"
+volume: "89"
+number: "1"
+pages: "19-25"
+doi: "10.1890/07-0774.1"
+abstract: "Both means and year-to-year variances of climate variables such as temperature and precipitation are predicted to change. However, the potential impact of changing climatic variability on the fate of populations has been largely unexamined. We analyzed multiyear demographic data for 36 plant and animal species with a broad range of life histories and types of environment to ask how sensitive their long-term stochastic population growth rates are likely to be to changes in the means and standard deviations of vital rates (survival, reproduction, growth) in response to changing climate. We quantified responsiveness using elasticities of the long-term population growth rate predicted by stochastic projection matrix models. Short-lived species (insects and annual plants and algae) are predicted to be more strongly (and negatively) affected by increasing vital rate variability relative to longer-lived species (perennial plants, birds, ungulates). Taxonomic affiliation has little power to explain sensitivity to increasing variability once longevity has been taken into account. Our results highlight the potential vulnerability of short-lived species to an increasingly variable climate, but also suggest that problems associated with short-lived undesirable species (agricultural pests, disease vectors, invasive weedy plants) may be exacerbated in regions where climate variability decreases."
+categories: 
+  - demography
+  - dynamics
+  - elasticities
+  - fitness
+  - growth
+  - life-history
+  - precipitation
+  - rates
+  - stochasticity
+  - variable environments
+url: "http://doi.wiley.com/10.1890/07-0774.1"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/ecology_2008_100/cite.bib'
+pdf: './articles/ecology_2008_100/Morris_et_al_2008.pdf'
+---

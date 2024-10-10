@@ -1,0 +1,29 @@
+---
+title: "Effect of Mutualist Partner Identity on Plant Demography"
+date: "2014"
+author: ["Emilio M. Bruna", "Thiago J. Izzo", "Brian D. Inouye", "Heraldo L. Vasconcelos"]
+publication: "Ecology"
+volume: "95"
+number: "12"
+pages: "3237-3243"
+doi: "10.1890/14-0481.1"
+abstract: "Mutualisms play a central role in the origin and maintenance of biodiversity. Because many mutualisms have strong demographic effects, interspecific variation in partner quality could have important consequences for population dynamics. Nevertheless, few studies have quantified how a mutualist partner influences population growth rates, and still fewer have compared the demographic impacts of multiple partner species. We used integral projection models parameterized with three years of census data to compare the demographic effects of two ant species, Crematogaster laevis and Pheidole minutula, on populations of the Amazonian ant plant Maieta guianensis. Estimated population growth rates were positive (i.e., lambda $>$ 1) for all ant-plant combinations. However, populations with only Pheidole minutula had the highest asymptotic growth rate (lambda = 1.23), followed by those colonized by Crematogaster laevis (lambda = 1.16), and in which the partner ant alternated between C. laevis and P. minutula at least once during our study (lambda = 1.15). Our results indicate that the short-term superiority of a mutualist partner (in this system, P. minutula is a better defender of plants against herbivores than C. laevis) can have long-term demographic consequences. Furthermore, the demographic effects of switching among alternative partners appear to be context dependent, with no benefits to plants hosting C. laevis but a major cost of switching to plants hosting P. minutula. Our results underscore the importance of expanding the study of mutualisms beyond the study of pair-wise interactions to consider the demographic costs and benefits of interacting with different, and multiple, potential partners."
+categories: 
+  - amazonian myrmecophytes
+  - ants
+  - benefits
+  - defensive responses
+  - integral projection models
+  - interspecific variation
+  - multiple partners
+  - population-dynamics
+  - seed dispersal
+  - size
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/ecology_2014_25/cite.bib'
+pdf: './articles/ecology_2014_25/Bruna_etal_2014_Ecology_Coverjpg_NA.pdf'
+---

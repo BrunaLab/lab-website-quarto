@@ -1,0 +1,29 @@
+---
+title: "Edge Effects on Growth and Biomass Partitioning of an Amazonian Understory Herb ( \emphHeliconia\emph Acuminata ; Heliconiaceae)"
+date: "2011"
+author: ["Emilio M. Bruna", "Ana Segalin Andrade"]
+publication: "American Journal of Botany"
+volume: "98"
+number: "10"
+pages: "1727-1734"
+doi: "10.3732/ajb.1000290"
+abstract: "none"
+categories: 
+  - genotypic variation
+  - habitat fragmentation
+  - light environments
+  - microclimate
+  - past land-use
+  - phenotypic plasticity
+  - photoinhibition
+  - plant-populations
+  - spatial heterogeneity
+  - tropical rain-forest
+url: "https://onlinelibrary.wiley.com/doi/10.3732/ajb.1000290"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/american_journal_of_botany_2011_22/cite.bib'
+pdf: './articles/american_journal_of_botany_2011_22/Bruna_and_de_Andrade_2011.pdf'
+---

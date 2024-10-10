@@ -1,0 +1,29 @@
+---
+title: "The Contribution of Theory and Experiments to Conservation in Fragmented Landscapes"
+date: "2017"
+author: ["Julian Resasco", "Emilio M. Bruna", "Nick M. Haddad", "Cristina Banks-Leite", "Christopher R. Margules"]
+publication: "Ecography"
+volume: "40"
+number: "1"
+pages: "109-118"
+doi: "10.1111/ecog.02546"
+abstract: "none"
+categories: 
+  - amazonian forest fragments
+  - biodiversity
+  - connectivity
+  - corridors
+  - dispersal
+  - dynamics
+  - habitat fragmentation
+  - island biogeography theory
+  - species richness
+  - strategy
+url: "https://onlinelibrary.wiley.com/doi/10.1111/ecog.02546"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/ecography_2017_113/cite.bib'
+pdf: './articles/ecography_2017_113/Resasco_et_al_2017.pdf'
+---

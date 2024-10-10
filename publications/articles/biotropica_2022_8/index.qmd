@@ -1,0 +1,20 @@
+---
+title: "2022 ATBC Honorary Fellows"
+date: "2022"
+author: ["Emilio Bruna", "Jennifer S. Powers", "Lucia G. Lohmann"]
+publication: "Biotropica"
+volume: "54"
+number: "6"
+pages: "1521-1522"
+doi: "10.1111/btp.13170"
+abstract: "none"
+categories: 
+  - 
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.13170"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biotropica_2022_8/cite.bib'
+pdf: './articles/biotropica_2022_8/Bruna_et_al_2022.pdf'
+---

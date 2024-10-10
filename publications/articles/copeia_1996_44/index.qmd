@@ -1,0 +1,28 @@
+---
+title: "New Evidence of Habitat Segregation between Two Cryptic Species of Pacific Skinks (Emoia Cyanura and E. Impar)"
+date: "1996"
+author: ["Emilio M. Bruna", "Robert N. Fisher", "Ted J. Case"]
+publication: "Copeia"
+volume: "1996"
+number: "4"
+pages: "998"
+doi: "10.2307/1447665"
+abstract: "none"
+categories: 
+  - behavior
+  - ecology
+  - islands
+  - lacertilia
+  - lizards
+  - new-zealand
+  - reptiles
+  - scincidae
+  - selection
+url: "https://www.jstor.org/stable/1447665?origin = crossref"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/copeia_1996_44/cite.bib'
+pdf: './articles/copeia_1996_44/Bruna_et_al_1996.pdf'
+---

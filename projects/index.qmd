@@ -1,9 +1,12 @@
 ---
-title: Projects
+title: Current Projects
 listing:
   id: projects
   type: grid
 page-layout: full
+# fields: [title, subtitle, image]
+fields: [title, image]
+
 ---
 <!-- <style> -->
 <!--   body { -->

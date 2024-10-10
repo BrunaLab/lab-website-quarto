@@ -1,0 +1,29 @@
+---
+title: "Biotic Drivers of Seedling Establishment in Neotropical Savannas: Selective Granivory and Seedling Herbivory by Leaf-Cutter Ants as an Ecological Filter"
+date: "2017"
+author: ["Alan N. Costa", "Heraldo L. Vasconcelos", "Emilio M. Bruna"]
+publication: "Journal of Ecology"
+volume: "105"
+number: "1"
+pages: "132-141"
+doi: "10.1111/1365-2745.12656"
+abstract: "none"
+categories: 
+  - abundance
+  - atta spp.
+  - cutting ants
+  - dispersal
+  - predation
+  - rain-forest
+  - recruitment
+  - seeds
+  - tree
+  - woody-plants
+url: "https://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12656"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/journal_of_ecology_2017_61/cite.bib'
+pdf: './articles/journal_of_ecology_2017_61/Costa_et_al_2017.pdf'
+---

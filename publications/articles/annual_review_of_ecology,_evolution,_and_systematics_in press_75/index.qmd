@@ -1,0 +1,20 @@
+---
+title: "The Prominent Role of the Matrix in Ecology, Evolution, and Conservation"
+date: "in press"
+author: ["Robert J. Fletcher", "Thomas A. H. Smith", "Savannah Troy", "Nicholas Kortessis", "Edgar C. Turner", "Emilio M. Bruna", "Robert D. Holt"]
+publication: "Annual Review of Ecology, Evolution, and Systematics"
+volume: "none"
+number: "none"
+pages: "none"
+doi: "10.1146/annurev-ecolsys-102722-025653"
+abstract: "As the Anthropocene proceeds, the matrix in which remaining habitats are embedded is an increasingly dominant component of altered landscapes. The matrix appears to have diverse and far-reaching effects, yet our understanding of the causes and consequences of these effects remains limited. We first synthesize the broad range of perspectives on the matrix, provide a generalized framing that captures these perspectives, and propose hypotheses for how and why the matrix matters for ecological and evolutionary processes. We then summarize evidence for these hypotheses from experiments in which the matrix was manipulated. Nearly all experiments revealed matrix effects, including changes in local spillover, individual movement and dispersal, and use of resources in the matrix. Finally, we discuss how the matrix has been, and should be, incorporated into conservation and management and suggest future issues to advance research on and applications of the matrix in ecology, evolution, and conservation."
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/annual_review_of_ecology,_evolution,_and_systematics_in press_75/cite.bib'
+pdf: './articles/annual_review_of_ecology,_evolution,_and_systematics_in press_75/annurev-ecolsys-102722-025653html_NA.pdf'
+---

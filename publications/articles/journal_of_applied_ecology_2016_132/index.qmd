@@ -1,0 +1,29 @@
+---
+title: "Roads Increase Population Growth Rates of a Native Leaf-Cutter Ant in Neotropical Savannahs"
+date: "2016"
+author: ["Ernane H. M. Vieira-Neto", "Heraldo L. Vasconcelos", "Emilio M. Bruna"]
+publication: "Journal of Applied Ecology"
+volume: "53"
+number: "4"
+pages: "983-992"
+doi: "10.1111/1365-2664.12651"
+abstract: "none"
+categories: 
+  - comparative demography
+  - cutting ants
+  - dynamics
+  - forest
+  - formicidae
+  - herbivory
+  - impacts
+  - life
+  - management
+  - nests
+url: "https://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12651"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/journal_of_applied_ecology_2016_132/cite.bib'
+pdf: './articles/journal_of_applied_ecology_2016_132/Vieira_Neto_JAE-jpe12651-sup-0001-AppendixS1-S3pdf_NA.pdf'
+---

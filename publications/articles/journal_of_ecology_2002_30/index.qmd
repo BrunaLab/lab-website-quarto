@@ -1,0 +1,20 @@
+---
+title: "Experimental Assessment of Heliconia Acuminata Growth in a Fragmented Amazonian Landscape"
+date: "2002"
+author: ["E. M. Bruna", "O. Nardy", "S. Y. Strauss", "S. P. Harrison"]
+publication: "Journal of Ecology"
+volume: "90"
+number: "4"
+pages: "639-649."
+doi: "none"
+abstract: "none"
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/journal_of_ecology_2002_30/cite.bib'
+pdf: './articles/journal_of_ecology_2002_30/Bruna_et_al_2002_JOEpdf_NA.pdf'
+---

@@ -1,0 +1,29 @@
+---
+title: "Experimental Test for Facilitation of Seedling Recruitment by the Dominant Bunchgrass in a Fire-Maintained Savanna"
+date: "2012"
+author: ["Gwenllian D. Iacona", "L. Katherine Kirkman", "Emilio M. Bruna"]
+publication: "PLoS ONE"
+volume: "7"
+number: "e39108"
+pages: "e39108"
+doi: "10.1371/journal.pone.0039108"
+abstract: "Facilitative interactions between neighboring plants can influence community composition, especially in locations where environmental stress is a factor limiting competitive effects. The longleaf pine savanna of the southeastern United States is a threatened and diverse system where seedling recruitment success and understory species richness levels are regulated by the availability of moist microsites. We hypothesized that the dominant bunch grass species (Aristida stricta Michx.) would facilitate moist seedling microsites through shading, but that the effect would depend on stress gradients. Here, we examined the environmental properties modified by the presence of wiregrass and tested the importance of increased shade as a potential facilitative mechanism promoting seedling recruitment across spatial and temporal stress gradients. We showed that environmental gradients, season, and experimental water manipulation influence seedling success. Environmental properties were modified by wiregrass proximity in a manner that could facilitate seedling success, but we showed that shade alone does not provide a facilitative benefit to seedlings in this system."
+categories: 
+  - availability
+  - competition
+  - diversity
+  - interference
+  - longleaf pine
+  - plant-communities
+  - positive interactions
+  - shrub
+  - species richness
+  - water
+url: "https://dx.plos.org/10.1371/journal.pone.0039108"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/plos_one_2012_88/cite.bib'
+pdf: './articles/plos_one_2012_88/Iacona_et_al_2012.pdf'
+---

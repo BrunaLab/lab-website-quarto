@@ -1,0 +1,20 @@
+---
+title: "Amizade Tênue: Relações Mutualísticas Entre Plantas e Formigas Na Amazônia."
+date: "2004"
+author: ["David M. Lapola", "Bruna E. M.", "H. L. Vasconcelos"]
+publication: "Ciência Hoje"
+volume: "34"
+number: "204"
+pages: "28-33"
+doi: "none"
+abstract: "none"
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/ciência_hoje_2004_94/cite.bib'
+pdf: './articles/ciência_hoje_2004_94/Lapola_et_al_2004_CHpdf_NA.pdf'
+---

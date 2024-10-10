@@ -1,0 +1,29 @@
+---
+title: "Do Herbivores Exert Top‐down Effects in Neotropical Savannas? Estimates of Biomass Consumption by Leaf‐cutter Ants"
+date: "2008"
+author: ["Alan N. Costa", "Heraldo L. Vasconcelos", "Ernane H.M. Vieira-Neto", "Emilio M. Bruna"]
+publication: "Journal of Vegetation Science"
+volume: "19"
+number: "6"
+pages: "849-854"
+doi: "10.3170/2008-8-18461"
+abstract: "Question: Plant communities in Paleotropical savannas are regulated by a combination of bottom-up and top-down effects. However, the paucity of ungulates and other large herbivores in Neotropical savannas has led to speculation that these communities are primarily structured by physical factors such as fire, precipitation and soil chemistry. We addressed the following question: How much plant biomass is consumed by leaf-cutter ants in Neotropical savannas, and is it comparable to the amount of biomass consumed by herbivores in Paleotropical savanna sites? Location: Our study was conducted at the Estação Ecológica do Panga, located 30 km south of Uberlândia, Minas Gerais, Brazil. All field work was conducted in the vegetation type known as cerrado sensu stricto."
+categories: 
+  - atta-colombica
+  - brazil
+  - cerrado
+  - cutting ants
+  - dynamics
+  - ecology
+  - ecosystem
+  - fire
+  - forest
+  - patterns
+url: "https://onlinelibrary.wiley.com/doi/abs/10.3170/2008-8-18461"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/journal_of_vegetation_science_2008_63/cite.bib'
+pdf: './articles/journal_of_vegetation_science_2008_63/Costa_et_al_2008.pdf'
+---

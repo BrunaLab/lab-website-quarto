@@ -1,0 +1,20 @@
+---
+title: "Editorial Board Members Are a Non-Random Sample of Ecological Experts"
+date: "2018"
+author: ["Emilio M. Bruna"]
+publication: "Nature Ecology and Evolution"
+volume: "2"
+number: "2"
+pages: "202-202"
+doi: "10.1038/s41559-017-0443-9"
+abstract: "none"
+categories: 
+  - 
+url: "http://www.nature.com/articles/s41559-017-0443-9"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/nature_ecology_and_evolution_2018_23/cite.bib'
+pdf: './articles/nature_ecology_and_evolution_2018_23/Bruna_2018.pdf'
+---

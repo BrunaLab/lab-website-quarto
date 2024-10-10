@@ -1,0 +1,23 @@
+---
+title: "Assessing the Effect of Article Processing Charges on the Geographic Diversity of Authors Using Elsevier's “Mirror Journal” System"
+date: "2021"
+author: ["Audrey C. Smith", "Leandra Merz", "Jesse B. Borden", "Chris K. Gulick", "Akhil R. Kshirsagar", "Emilio M. Bruna"]
+publication: "Quantiative Science Studies"
+volume: "2"
+number: "4"
+pages: "1123-1143"
+doi: "10.1162/qss_a_00157"
+abstract: "Journals publishing open access (OA) articles often require that authors pay article processing charges (APC). Researchers in the Global South often cite APCs as a major financial obstacle to OA publishing, especially in widely-recognized or prestigious outlets. Consequently, it has been hypothesized that authors from the Global South will be underrepresented in journals charging APCs. We tested this hypothesis using >37,000 articles from Elsevier’s ‘Mirror journal’ system, in which a hybrid ‘Parent’ journal and its Gold-OA ‘Mirror’ share editorial boards and standards for acceptance. Most articles were non-OA; 45% of articles had lead authors based in either the United States of America (USA) or China. After correcting for the effect of this dominance and differences in sample size, we found that OA articles published in Parent and Mirror journals had lead authors with similar Geographic Diversity. However, Author Geographic Diversity of OA articles was significantly lower than that of non-OA articles. Most OA articles were written by authors in high-income countries, and there were no articles in Mirror journals by authors in low-income countries. Our results for Elsevier’s Mirror-Parent system are consistent with the hypothesis that APCs are a barrier to OA publication for scientists from the Global South."
+categories: 
+  - ecology
+  - open access
+  - publication fees
+  - article processing charges (APCs)
+url: "https://doi.org/10.1162/qss_a_00157"
+image: featured.png
+url_preprint: ""
+url_code: "https://zenodo.org/records/5500293"
+url_dataset: ""
+bib: './articles/quantitative_science_studies_2021_118/cite.bib'
+pdf: './articles/quantitative_science_studies_2021_118/Smith_et_al_2021.pdf'
+---

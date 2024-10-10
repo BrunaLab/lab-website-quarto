@@ -1,0 +1,29 @@
+---
+title: "Habitat Fragmentation and Large-Scale Conservation: What Do We Know for Sure?"
+date: "1999"
+author: ["S. Harrison", "E. Bruna"]
+publication: "Ecography"
+volume: "22"
+number: "none"
+pages: "225-232"
+doi: "none"
+abstract: "none"
+categories: 
+  - abundance
+  - amazonian forest fragments
+  - coastal southern california
+  - communities
+  - edge
+  - landscape
+  - metapopulation dynamics
+  - nest
+  - plant
+  - tropical rain-forest
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/ecography_1999_83/cite.bib'
+pdf: './articles/ecography_1999_83/Harrison_and_Bruna_1999.pdf'
+---

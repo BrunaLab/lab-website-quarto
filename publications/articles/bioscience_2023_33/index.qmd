@@ -1,0 +1,20 @@
+---
+title: "Fundamental Errors of Data Collection and Validation Undermine Claims of Ideological Intensification in STEM"
+date: "2023"
+author: ["Emilio M Bruna"]
+publication: "BioScience"
+volume: "73"
+number: "11"
+pages: "775-777"
+doi: "10.1093/biosci/biad047"
+abstract: "none"
+categories: 
+  - 
+url: "https://academic.oup.com/bioscience/article/73/11/775/7245170"
+image: featured.png
+url_preprint: ""
+url_code: "https://zenodo.org/records/7896249"
+url_dataset: "https://zenodo.org/records/7896249"
+bib: './articles/bioscience_2023_33/cite.bib'
+pdf: './articles/bioscience_2023_33/Bruna_2023.pdf'
+---

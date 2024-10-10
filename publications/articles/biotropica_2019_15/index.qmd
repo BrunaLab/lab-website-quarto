@@ -1,0 +1,20 @@
+---
+title: "Biotropica: The next 50 Years"
+date: "2019"
+author: ["Emilio M. Bruna"]
+publication: "Biotropica"
+volume: "51"
+number: "4"
+pages: "none"
+doi: "10.1111/btp.12690"
+abstract: "none"
+categories: 
+  - 
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.12690"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biotropica_2019_15/cite.bib'
+pdf: './articles/biotropica_2019_15/Bruna_2019.pdf'
+---

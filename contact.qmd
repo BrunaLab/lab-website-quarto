@@ -1,5 +1,5 @@
 ---
-title: "Emilio M. Bruna"
+title: "Contact Information"
 about: 
   id: contact
   template: solana
@@ -9,28 +9,49 @@ about:
 ---
 
 
+<!-- ## CONTACT INFORMATION -->
 
-:::{#contact}
+<!-- :::{#contact} -->
 
-#### {{< fa envelope >}} &nbsp; embruna@ufl.edu
+## {{< fa at >}} e-mail 
 
-#### {{< fa envelope >}} &nbsp; University of Florida, Wildlife Ecology and Conservation, PO Box 110430, 110 Newins-Ziegler Hall, Gainesville, FL 32611-0430
+Emilio M. Bruna: [embruna\@ufl.edu](mailto:embruna@ufl.edu){.email}
 
-#### {{< fa phone >}} &nbsp; (352) 846-0634
+## {{< fa envelope >}} Mailing Address
 
-#### {{< fa map-location-dot >}} &nbsp; The Tropical Ecology & Conservation Lab
+University of Florida - WEC   
+PO Box 110430   
+Gainesville, FL 32611-0430
+
+_For mail requiring a street address:_  
+University of Florida - WEC  
+110 Newins-Ziegler Hall  
+Gainesville, FL 32611-0430  
+
+<!-- #### {{< fa phone >}} &nbsp -->
+<!-- (352) 846-0634 -->
+
+## {{< fa calendar-check >}} Book an Appointment 
+
+
+To book an appointment with Dr. Bruna [click here](https://outlook.office365.com/bookwithme/user/2e877188eda54d26be6c678d1b82e9d2@ufl.edu/meetingtype/SVRwCe7HMUGxuT6WGxi68g2?anonymous&ep=mlink).
+
+## {{< fa map-location-dot >}} Find us 
 
 
 
-```{r}
-#| echo: false
-#| warning: false
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-82.34328, lat=29.64564)
-```
+The Tropical Ecology and Conservation Lab is located at 711 Newell Dr. on the campus of the University of Florida. Our building is a white house nestled between the Rawlings Hall dorms and the parking garage located at the intersection of Newell Dr. and Museum Road.
 
-:::
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1043.5604338843416!2d-82.3442095646697!3d29.64554433367701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e8a39da6181cef%3A0xddde6594bbf64b2f!2s711%20Newell%20Dr%2C%20Gainesville%2C%20FL%2032603!5e0!3m2!1sen!2sus!4v1728501363537!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<!-- ```{r} -->
+<!-- #| echo: false -->
+<!-- #| warning: false -->
+<!-- library(leaflet) -->
+<!-- leaflet() %>% -->
+<!--   addTiles() %>%  # Add default OpenStreetMap map tiles -->
+<!--   addMarkers(lng=-82.34328, lat=29.64564) -->
+<!-- ``` -->
+
 
 

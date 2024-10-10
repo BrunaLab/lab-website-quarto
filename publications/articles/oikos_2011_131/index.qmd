@@ -1,0 +1,29 @@
+---
+title: "Seed Predators Limit Plant Recruitment in Neotropical Savannas"
+date: "2011"
+author: ["Alana Vaz Ferreira", "Emilio M. Bruna", "Heraldo L. Vasconcelos"]
+publication: "Oikos"
+volume: "120"
+number: "7"
+pages: "1013-1022"
+doi: "10.1111/j.1600-0706.2010.19052.x"
+abstract: "none"
+categories: 
+  - abundance
+  - ants
+  - cerrado
+  - desert
+  - dispersal
+  - dynamics
+  - forest
+  - habitat
+  - removal
+  - rodent
+url: "https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0706.2010.19052.x"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/oikos_2011_131/cite.bib'
+pdf: './articles/oikos_2011_131/Vaz_Ferreira_et_al_2011.pdf'
+---

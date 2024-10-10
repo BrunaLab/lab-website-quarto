@@ -1,0 +1,29 @@
+---
+title: "Demography of Palm Species in Brazil’s Atlantic Forest: A Comparison of Harvested and Unharvested Species Using Matrix Models"
+date: "2010"
+author: ["Rita de Cassia Quitete Portela", "Emilio M. Bruna", "Flavio Antonio Maes dos Santos"]
+publication: "Biodiversity and Conservation"
+volume: "19"
+number: "8"
+pages: "2389-2403"
+doi: "10.1007/s10531-010-9846-5"
+abstract: "none"
+categories: 
+  - defoliation
+  - elasticities
+  - growth
+  - habitat fragmentation
+  - heart
+  - martius
+  - plant-populations
+  - rain-forest
+  - reproduction
+  - sustainability
+url: "http://link.springer.com/10.1007/s10531-010-9846-5"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biodiversity_and_conservation_2010_112/cite.bib'
+pdf: './articles/biodiversity_and_conservation_2010_112/Quitete_Portela_et_al_2010.pdf'
+---

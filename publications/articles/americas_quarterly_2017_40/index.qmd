@@ -1,0 +1,20 @@
+---
+title: "Invasive New U.S. Visa Rules Hurt Americans Too"
+date: "2017"
+author: ["Emilio M. Bruna"]
+publication: "Americas Quarterly"
+volume: "none"
+number: "none"
+pages: "none"
+doi: "none"
+abstract: "When the Zika virus arrived in Florida in 2016 after wreaking havoc in Latin America, Governor Rick Scott gave state universities $25 million to research"
+categories: 
+  - 
+url: "https://www.americasquarterly.org/article/invasive-new-u-s-visa-rules-hurt-americans-too/"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/americas_quarterly_2017_40/cite.bib'
+pdf: './articles/americas_quarterly_2017_40/invasive-new-u-s-visa-rules-hurt-americans-toohtml_NA.pdf'
+---

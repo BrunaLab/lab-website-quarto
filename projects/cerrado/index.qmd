@@ -1,5 +1,5 @@
 ---
-title: Trophic cascades in Neotropical Savannas
+title: 'Trophic cascades in Neotropical Savannas'
 alias: &ALIAS cerrado
 image: featured.jpg
 # listing:
@@ -13,12 +13,7 @@ image: featured.jpg
   #   categories: *ALIAS
   # fields: [publication, title, categories, image, date, author]
 
----
-
-
-![Tamandua bandeira at the Panga Ecological Station, Uberlândia, Minas Gerais, Brazil.](./featured.jpg)
-
-tags:
+categories:
 - Habitat Fragmentation
 - Plant-Animal Interactions
 - Plant Demography
@@ -27,5 +22,10 @@ tags:
 - Savannas
 - N-limitation
 
+description: 'Decades of research have demonstrated plant communities in African and Asian savannas are regulated by a combination of pervasive top-down and bottom-up effects. In contrast, studies investigating the dynamics of plants in the Neotropical savannas known as the Cerrado have focused almost exclusively on fire, soil chemistry, and other bottom-up drivers. In collaboration with Dr. Heraldo Vasconcelos from Brazil’s Universidade Federal de Uberlandia, we are investigating how herbivores (leaf-cutter ants) and granivores (small mammals) influence the diversity and demography of Cerrado plants. In collaboration with Michelle Mack (UF Botany) we are expanding by experimentally manipulating soil nutrients.'
 
-Decades of research have demonstrated plant communities in African and Asian savannas are regulated by a combination of pervasive top-down and bottom-up effects. In contrast, studies investigating the dynamics of plants in the Neotropical savannas known as the Cerrado have focused almost exclusively on fire, soil chemistry, and other bottom-up drivers. In collaboration with Dr. Heraldo Vasconcelos from Brazil’s Universidade Federal de Uberlandia, we are investigating how herbivores (leaf-cutter ants) and granivores (small mammals) influence the diversity and demography of Cerrado plants. In collaboration with Michelle Mack (UF Botany) we are expanding by experimentally manipulating soil nutrients.
+---
+
+
+![Tamandua bandeira at the Panga Ecological Station, Uberlândia, Minas Gerais, Brazil.](./featured.jpg)
+

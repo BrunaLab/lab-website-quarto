@@ -1,0 +1,23 @@
+---
+title: "Cooperative Colony Founding Alters the Outcome of Interspecific Competition between Amazonian Plant-Ants"
+date: "2009"
+author: ["T. J. Izzo", "E. M. Bruna", "H. L. Vasconcelos", "B. D. Inouye"]
+publication: "Insectes Sociaux"
+volume: "56"
+number: "4"
+pages: "341-345"
+doi: "10.1007/s00040-009-0029-x"
+abstract: "none"
+categories: 
+  - habitat
+  - mutualism
+  - protection
+  - size
+url: "http://link.springer.com/10.1007/s00040-009-0029-x"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/insectes_sociaux_2009_89/cite.bib'
+pdf: './articles/insectes_sociaux_2009_89/Izzo_et_al_2009.pdf'
+---

@@ -1,0 +1,21 @@
+---
+title: "Seed Germination in Rainforest Fragments"
+date: "1999"
+author: ["Emilio M. Bruna"]
+publication: "Nature"
+volume: "402"
+number: "6758"
+pages: "139-139"
+doi: "10.1038/45963"
+abstract: "none"
+categories: 
+  - habitat fragmentation
+  - rain-forest
+url: "http://www.nature.com/articles/45963"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/nature_1999_49/cite.bib'
+pdf: './articles/nature_1999_49/Bruna_1999.pdf'
+---

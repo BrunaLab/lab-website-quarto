@@ -1,0 +1,29 @@
+---
+title: "Correctly Estimating How Environmental Stochasticity Influences Fitness and Population Growth"
+date: "2005"
+author: ["Daniel~F. Doak", "William~F. Morris", "Cathy Pfister", "Bruce~E. Kendall", "Emilio~M. Bruna"]
+publication: "The American Naturalist"
+volume: "166"
+number: "1"
+pages: "E14-E21"
+doi: "10.1086/430642"
+abstract: "Increased temporal variance in life-history traits is generally predicted to decrease individual fitness and population growth. We show that a widely used result of stochastic sensitivity analysis that bolsters this generality is flawed because it ignores the effects of correlations between vital rates. Considering the effects of these correlations (although ignoring autocorrelations), we show that the apparently simple relationship between vital rate variance and fitness can be considerably more complex than previously thought. In particular, the previously estimated negative sensitivities of fitness or population growth to variance in a vital rate can be either enhanced by positive correlations between rates or reversed by negative correlations, even to the point that variability in a rate can increase fitness or population growth. We apply this new sensitivity calculation to data from the desert tortoise and discuss its interpretation in light of the factors generating vital rate correlations."
+categories: 
+  - bet-hedging germination
+  - clutch size
+  - desert annuals
+  - ess germination strategies
+  - evolution
+  - extinction dynamics
+  - randomly varying environments
+  - rates
+  - structured populations
+  - variable environments
+url: "http://www.journals.uchicago.edu/doi/10.1086/430642"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/the_american_naturalist_2005_68/cite.bib'
+pdf: './articles/the_american_naturalist_2005_68/Doak_et_al_2005.pdf'
+---

@@ -8,43 +8,50 @@ website:
   title: "The Bruna Lab"
   site-url: "https://brunalab.org/"
   repo-url: "https://github.com/BrunaLab/QuartoBrunaWebsite"
-  favicon: images/bruna/bruna-logo-bird.png
+  favicon: images/bruna-logo-bird.png
   # google-analytics: "UA-177339812-1"
   twitter-card: true
-  #back-to-top-navigation: true
+  back-to-top-navigation: true
   page-navigation: false
   search: true
   page-footer: 
     background: "#FFFFFF"
-    center: © Emilio M. Bruna (2024)  &middot; Made with {{< fa brands r-project >}} and 
-      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) 
-    right:
-      - icon: github
-        href: https://github.com/BrunaLab/QuartoBrunaWebsite
-    # left:  ![](images/bruna/bruna-logo-full.png)
+    left:  '![](./images/full_logo_hum_wide.png)' 
+    center: '![](./images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png){height=10%}'
+    # center: Made by Emilio M. Bruna with <br> {{< fa brands r-project fa-2xs >}} and 
+    #   [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=105px}](https://quarto.org/) 
+    right: Made by Emilio M. Bruna with <br> {{< fa brands r-project >}} and 
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=105px}](https://quarto.org/) <br>
+      Code available at [<i class="fa fa-brands fa-github" style="color:#238456"></i>](https://github.com/BrunaLab/QuartoBrunaWebsite)<br>
+      
+      # - icon: github color: fill='#465672' {fig-alt="Quarto" width=105px}
+      #   href: https://github.com/BrunaLab/QuartoBrunaWebsite
+      # 
     
   navbar:
     search: true
     title: false
-    logo: images/bruna/bruna-logo-full.png
+    logo: images/bruna-logo-bird.png
+    # logo: images/bruna-logo-full.png
     background: "#FFFFFF"
     logo-alt: "Bruna Lab"
     left:
-      - href: people/embruna/index.qmd
-        text: Emilio M. Bruna
+      # - href: people/embruna/index.qmd
+      #   text: Emilio M. Bruna
       - href: people/index.qmd
         text: lab members
       - href: projects/index.qmd
       - href: publications/index.qmd
+        text: publications
       - href: courses/index.qmd
         text: courses
       - href: contact.qmd
         text: Contact
 
-  sidebar:
+  # sidebar:
 #  link each group of sidebar entries with a navbar entry by matching their titles and listing the page linked from the navbar as the first content in the sidebar
     # - id: dmref
-    #   title: "NSF DMREF"
+    #    title: "NSF DMREF"
       # logo: "images/dmref-logo.png"
       # logo-href: dmref/index.qmd #avail quarto v 1.5
       # contents: 
@@ -59,7 +66,7 @@ website:
       #   - href: dmref/data/index.qmd
       #     text: Team Data
 
-    - id: empty-to-suppress-sidebars-on-other-pages
+    # - id: empty-to-suppress-sidebars-on-other-pages
 
 
 format:
@@ -68,7 +75,7 @@ format:
       - styles/custom.scss
       - lux
     fontcolor: black
-    fontsize: large
+    fontsize: x-large
     mainfont: Nunito Sans
     toc: true
     link-external-newwindow: true

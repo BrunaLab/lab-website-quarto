@@ -1,0 +1,20 @@
+---
+title: "A Delicate Balance in Amazonia."
+date: "2005"
+author: ["E. M. Bruna", "K. A. Kainer"]
+publication: "Science"
+volume: "307"
+number: "none"
+pages: "1044-1045."
+doi: "none"
+abstract: "none"
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/science_2005_19/cite.bib'
+pdf: './articles/science_2005_19/Bruna_and_Kainer_2005.pdf'
+---

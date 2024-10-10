@@ -1,0 +1,25 @@
+---
+title: "Volume and Geographical Distribution of Ecological Research in the Andes and the Amazon, 1995–2008"
+date: "2011"
+author: ["Nigel C. A. Pitman", "Jocelyn Widmer", "Clinton N. Jenkins", "Gabriela Stocks", "Lisa Seales", "Franklin Paniagua", "Emilio M. Bruna"]
+publication: "Tropical Conservation Science"
+volume: "4"
+number: "1"
+pages: "64-81"
+doi: "10.1177/194008291100400107"
+abstract: "The Andes range and the Amazon basin represent the most diverse biological community on earth and the largest tropical forest on earth, respectively, but they are historically understudied by biologists. In this paper we provide the first quantitative description of the volume and geographical distribution of ecological research in these regions. We compiled a dataset of all articles based on the Andes and Amazon regions published in two prominent international tropical ecology journals between 1995 and 2008. During this period, the number of scientific articles based on research in the Amazon was half that based on research in Central America, while the Andes scored among the least-studied of all tropical regions. Brazil was the leading base for Amazonian studies and Ecuador the primary location for Andean studies, but Ecuador led both categories and Brazil came last when research effort was standardized by area. Most Amazonian research took place in three regions—Manaus, southeastern Peru, and eastern Ecuador—with textasciitilde 31 percent of all papers coming from four field stations in those regions. Andean research focused overwhelmingly on the northern Andes. Research in the Andes range and the Amazon basin remains scattered, patchy, and far below its potential. We propose steps that funding agencies can take to increase research output and reduce geographical bias in the study of South America's richest ecosystems."
+categories: 
+  - biodiversity
+  - conservation
+  - patterns
+  - science
+  - western amazon
+  - worlds
+url: "http://journals.sagepub.com/doi/10.1177/194008291100400107"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/tropical_conservation_science_2011_110/cite.bib'
+pdf: './articles/tropical_conservation_science_2011_110/Pitman_et_al_2011.pdf'
+---

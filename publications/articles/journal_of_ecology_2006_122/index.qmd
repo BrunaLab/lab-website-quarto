@@ -1,0 +1,29 @@
+---
+title: "Effects of Plant Age, Experimental Nutrient Addition and Ant Occupancy on Herbivory in a Neotropical Myrmecophyte"
+date: "2006"
+author: ["Matthew D. Trager", "Emilio M. Bruna"]
+publication: "Journal of Ecology"
+volume: "94"
+number: "6"
+pages: "1156-1163"
+doi: "10.1111/j.1365-2745.2006.01165.x"
+abstract: "none"
+categories: 
+  - allocation
+  - antiherbivore defenses
+  - availability
+  - benefits
+  - cecropia
+  - generalist
+  - mutualists
+  - ontogeny
+  - protection
+  - strategies
+url: "https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2745.2006.01165.x"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/journal_of_ecology_2006_122/cite.bib'
+pdf: './articles/journal_of_ecology_2006_122/Trager_and_Bruna_2006.pdf'
+---

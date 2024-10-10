@@ -1,0 +1,20 @@
+---
+title: "A Word from the Editor-in-Chief"
+date: "2014"
+author: ["Emilio M. Bruna"]
+publication: "Biotropica"
+volume: "46"
+number: "4"
+pages: "377-377"
+doi: "10.1111/btp.12129"
+abstract: "none"
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biotropica_2014_50/cite.bib'
+pdf: './articles/biotropica_2014_50/Bruna_2014.pdf'
+---

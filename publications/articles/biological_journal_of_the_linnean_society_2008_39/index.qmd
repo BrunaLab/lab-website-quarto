@@ -1,0 +1,29 @@
+---
+title: "Interspecific Variation in the Defensive Responses of Ant Mutualists to Plant Volatiles"
+date: "2008"
+author: ["Emilio M. Bruna", "Maria Rosa Darrigo", "Angela Midori Furuya Pacheco", "Heraldo L. Vasconcelos"]
+publication: "Biological Journal of the Linnean Society"
+volume: "94"
+number: "2"
+pages: "241-249"
+doi: "10.1111/j.1095-8312.2008.00962.x"
+abstract: "none"
+categories: 
+  - association
+  - consequences
+  - cues
+  - herbivory
+  - leaf damage
+  - macaranga
+  - melastomataceae
+  - phylogeny
+  - protection
+  - recruitment
+url: "https://academic.oup.com/biolinnean/article-lookup/doi/10.1111/j.1095-8312.2008.00962.x"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biological_journal_of_the_linnean_society_2008_39/cite.bib'
+pdf: './articles/biological_journal_of_the_linnean_society_2008_39/Bruna_et_al_2008.pdf'
+---

@@ -1,0 +1,27 @@
+---
+title: "Alternative Spatial Sampling in Studies of Plant Demography: Consequences for Estimates of Population Growth Rate"
+date: "2010"
+author: ["Ian J. Fiske", "Emilio M. Bruna"]
+publication: "Plant Ecology"
+volume: "207"
+number: "2"
+pages: "213-225"
+doi: "10.1007/s11258-009-9666-4"
+abstract: "none"
+categories: 
+  - autocorrelation
+  - cycle
+  - density
+  - dynamics
+  - field
+  - plot size
+  - shape
+  - understory herb
+url: "http://link.springer.com/10.1007/s11258-009-9666-4"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/plant_ecology_2010_72/cite.bib'
+pdf: './articles/plant_ecology_2010_72/Fiske_and_Bruna_2010.pdf'
+---

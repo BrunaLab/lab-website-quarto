@@ -14,7 +14,7 @@ image: featured.jpeg
 #   fields: [publication, title, categories, image, date, author]
 ---
 
-_Graduate, 3 credits, Spring Semester (even years) _
+_Graduate, 3 credits, Spring Semester_
 
 ## Course Objectives  
 

@@ -1,0 +1,29 @@
+---
+title: "Evaluating Conceptual Models of Landscape Change"
+date: "2017"
+author: ["Lars A. Brudvig", "Shawn J. Leroux", "Cecile H. Albert", "Emilio M. Bruna", "Kendi F. Davies", "Robert M. Ewers", "Douglas J. Levey", "Renata Pardini", "Julian Resasco"]
+publication: "Ecography"
+volume: "40"
+number: "1"
+pages: "74-84"
+doi: "10.1111/ecog.02543"
+abstract: "none"
+categories: 
+  - consequences
+  - conservation
+  - continuum model
+  - countryside biogeography
+  - fauna research
+  - habitat fragmentation
+  - land-use
+  - matrix
+  - perspectives
+  - species distribution
+url: "https://onlinelibrary.wiley.com/doi/10.1111/ecog.02543"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/ecography_2017_6/cite.bib'
+pdf: './articles/ecography_2017_6/Brudvig_et_al_2017.pdf'
+---

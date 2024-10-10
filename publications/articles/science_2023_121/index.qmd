@@ -1,0 +1,20 @@
+---
+title: "Plant Size, Latitude, and Phylogeny Explain within-Population Variability in Herbivory"
+date: "2023"
+author: ["The Herbivory Variability Network"]
+publication: "Science"
+volume: "382"
+number: "6671"
+pages: "679-683"
+doi: "10.1126/science.adh8830"
+abstract: "Interactions between plants and herbivores are central in most ecosystems, but their strength is highly variable. The amount of variability within a system is thought to influence most aspects of plant-herbivore biology, from ecological stability to plant defense evolution. Our understanding of what influences variability, however, is limited by sparse data. We collected standardized surveys of herbivory for 503 plant species at 790 sites across 116° of latitude. With these data, we show that within-population variability in herbivory increases with latitude, decreases with plant size, and is phylogenetically structured. Differences in the magnitude of variability are thus central to how plant-herbivore biology varies across macroscale gradients. We argue that increased focus on interaction variability will advance understanding of patterns of life on Earth."
+categories: 
+  - 
+url: "https://www.science.org/doi/10.1126/science.adh8830"
+image: featured.png
+url_preprint: ""
+url_code: "https://zenodo.org/records/8133118"
+url_dataset: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.44j0zpckm"
+bib: './articles/science_2023_121/cite.bib'
+pdf: './articles/science_2023_121/The_Herbivory_Variability_Network_2023.pdf'
+---

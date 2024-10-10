@@ -1,0 +1,29 @@
+---
+title: "Adaptive Foraging of Leaf-Cutter Ants to Spatiotemporal Changes in Resource Availability in Neotropical Savannas"
+date: "2019"
+author: ["Alan N. Costa", "Heraldo L. Vasconcelos", "Ernane H.M. Vieira-Neto", "Emilio M. Bruna"]
+publication: "Ecological Entomology"
+volume: "44"
+number: "2"
+pages: "227-238"
+doi: "10.1111/een.12697"
+abstract: "1. Generalist herbivores feed on a wide and diverse set of species, but fine-scale foraging patterns may be affected by the interplay between the quality, quantity and spatial distribution of host plants. 2. The foraging patterns of a prevalent Neotropical herbivore, the leaf-cutter ant Atta laevigata, in the Brazilian Cerrado savannas were examined in order to determine if patterns observed are in concert with central-place foraging predictions. 3. The results showed that A. laevigata acts as a polyphagous but highly selective herbivore, with ant attacks often resulting in partial defoliation of less-preferred species and full defoliation of preferred ones. It was found, for the first time, that there is a strong and positive relationship between the relative attack frequency on plants from preferred species and foraging distance to the nest. This suggests a balance between the quality of plant resources harvested and costs involved in their transportation. It was also observed that colonies focused their harvest on preferred species in months with low availability of young leaves. Consequently, high herbivory rate was more frequent in plants attacked far away from the nest and in dry months. 4. These assessments highlight the fact that Atta colonies may become more selective as foraging distance to the nest increases and in response to fluctuations in the availability of palatable resources throughout the year. The results also show some dissimilarities in the foraging behaviours of A. laevigata when compared with other locations, suggesting that widely distributed herbivores may modify foraging strategies across their geographic range."
+categories: 
+  - atta-laevigata
+  - cerrado
+  - cutting ants
+  - diet selection
+  - distance
+  - herbivory
+  - host-plant selection
+  - leafcutting ants
+  - mato-grosso
+  - rain-forest
+url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/een.12697"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/ecological_entomology_2019_59/cite.bib'
+pdf: './articles/ecological_entomology_2019_59/Costa_et_al_2019.pdf'
+---

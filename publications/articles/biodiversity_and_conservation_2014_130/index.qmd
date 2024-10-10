@@ -1,0 +1,29 @@
+---
+title: "The Role of Roadsides in Conserving Cerrado Plant Diversity"
+date: "2014"
+author: ["Pedro B. Vasconcelos", "Glein M. Araujo", "Emilio M. Bruna"]
+publication: "Biodiversity and Conservation"
+volume: "23"
+number: "12"
+pages: "3035-3050"
+doi: "10.1007/s10531-014-0762-y"
+abstract: "none"
+categories: 
+  - conservation
+  - fire
+  - forest
+  - grass
+  - invasion
+  - melinis-minutiflora
+  - road verges
+  - savanna
+  - vegetation
+  - woody-plants
+url: "http://link.springer.com/10.1007/s10531-014-0762-y"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/biodiversity_and_conservation_2014_130/cite.bib'
+pdf: './articles/biodiversity_and_conservation_2014_130/Vasconcelos_et_al_2014.pdf'
+---

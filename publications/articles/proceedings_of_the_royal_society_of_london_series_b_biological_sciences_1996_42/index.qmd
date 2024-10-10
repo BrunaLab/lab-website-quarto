@@ -1,0 +1,20 @@
+---
+title: "Morphological and Genetic Evolution Appear Decoupled in Pacific Skinks (Squamata: Scincidae: Emoia)"
+date: "1996"
+author: ["E. M. Bruna", "R. N. Fisher", "T. J. Case"]
+publication: "Proceedings of the Royal Society of London Series B Biological Sciences"
+volume: "263"
+number: "1371"
+pages: "681-688"
+doi: "none"
+abstract: "It has been suggested recently that morphological and genetic evolution may be decoupled in skinks, resulting in morphological similarity between species despite extensive genetic divergence. Emoia cyanura and Emoia impar, recognized recently as cryptic species of skinks sympatric throughout much of the Pacific, are here each shown to be composed of several genetically distinct (on the basis of mitochondrial DNA sequences) but morphologically similar lineages. Furthermore, similarly coloured polymorphic individuals are found in both species, and these individuals have the same mtDNA haplotypes as their sympatric conspecifics. Although the morphological similarity of cryptic species is usually attributed to recent speciation, this is ruled out in the case of E. cyanura and E. impar, as both species are more closely related genetically to other currently recognized species than they are to each other. We suggest a genetic review of current Pacific skink systematics, given the possibility that morphologically indistinguishable populations may in fact represent cryptic species."
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/proceedings_of_the_royal_society_of_london_series_b_biological_sciences_1996_42/cite.bib'
+pdf: './articles/proceedings_of_the_royal_society_of_london_series_b_biological_sciences_1996_42/Bruna_et_al_1996.pdf'
+---
