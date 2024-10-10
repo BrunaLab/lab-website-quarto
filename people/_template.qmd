@@ -2,7 +2,7 @@
 title: &TITLE Name
 last: 
 first: 
-people_group: "postdoc | gradstudent | alumni"
+people_group: "current | postdoc | gradstudent | alumni"
 email: 
 education:
   - deg | inst  <br> 
@@ -33,8 +33,8 @@ about:
 
 <hr>
 
-
 :::{#about}
+
 
 
 

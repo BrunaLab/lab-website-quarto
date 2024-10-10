@@ -1,0 +1,42 @@
+---
+pagetitle: "Information for Prospective Students"
+toc: false
+title-block-style: default  # default, plain, none
+format:
+  html: 
+    fontsize: 0.8em
+---
+
+Gainesville is a great place to live and UF is a phenomenal place to study ecology and conservation. If you are interested in joining my research group as a graduate student, here is some information that will help with application process. 
+
+## Graduate Programs
+I accept students through three programs:   
+
+(1) MS or PhD in [Wildlife Ecology and Conservation](https://wec.ifas.ufl.edu/)
+(2) MS and PhD in Interdisciplinary Ecology from the [School for Natural Resources and the Environment](https://snre.ifas.ufl.edu/)  
+(3) [MA in Latin American Studies](https://www.latam.ufl.edu/academics/graduate-programs/malas/) from UF's Center for Latin American Studies.
+
+
+Info on deadlines and admissions process, and support. point out a good idea to apply to mutkpiple programs. 
+
+## Research Topics and Study Systems
+Students I advise are encouraged to branch out on their own – you don’t have to work in the tropics to join the lab, nor are you required to work on one of 'my' projects or with one of 'my' systems (though you are welcome too). However, those interested in working with our group should:
+
+1. Be interested in using experiments, modeling, or other quantitative methods to test novel hypotheses in plant population ecology or plant-animal interactions.  
+2. Be interested in the application of their results to the conservation of biological resources. Your thesis need not be entirely applied, but I hope at least part of it will be.  
+3. Be eager to work in a stimulating and collegial academic environment. I expect my graduate students to participate in activities such as the departmental seminar series, lab meetings, and reading groups. I also encourage them to develop collaborations and side projects with other faculty and students with whom they share mutual research interests.  
+4. Actively pursue fellowships and financial support for their work. This is not only good practice for the future, but earning grants and fellowships while in graduate school makes you a much stronger candidate for jobs after you’ve graduated.
+5. Get along well with others and have a positive outlook. Grad school will be challenging, and sometimes frustrating, but it should also be fun and personally rewarding.
+
+
+## Still interested? 
+
+In you think you might be a good match for my lab and UF, please send me an e-mail with the following information:
+
+1. A description of your research interests (the questions you are interested in addressing, possible systems, etc.). This will help us determine if I am really the best advisor for you.
+2. Your prior research experience and any other information you think is relevant.
+3. A summary of your academic history (including your GPA and TOEFL score, if appropriate).Note that while we do not consider GRE scores for the admissions process, the UF graduate school still requires you take them. 
+4. International Students: UF Provides some excellent information for prospective international students here.
+ 
+
+PS: You may wish to check out an essay by Walt Carson that provides excellent advice for students interested in going to grad school (get a pdf version here: Carson 1999). I also suggest reading the essays by Ray Huey and Stephen Stearns entitled “Some modest advice for graduate students” (pdf version here: Stearns and Huey 1987). You may also wish to browse through the information at PhDs.org, which is a clearinghouse for grad school information. The blog is especially useful.

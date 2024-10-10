@@ -1,0 +1,108 @@
+---
+title: &TITLE Emilio M. Bruna
+last: Bruna
+first: Emilio
+people_group: current
+email: "embruna@ufl.edu"
+education:
+  - <b>Ph.D. in Population Biology</b>, University of California, Davis<br><b>M.S. in Biology</b>, University of California, San Diego<br><b>B.S. in Ecology, Behavior, & Evolution</b>, University of California, San Diego
+subtitle: "Professor & Distinguished Teaching Scholar"
+description: ""
+affiliation: University of Florida
+image: avatar.jpg
+# listing:
+#   id: pubs
+#   template: ../../_ejs/publications-people.ejs 
+#   contents: ../../../publications/**/*.qmd
+#   sort: "pub_number desc"
+#   # sort-ui: true
+#   filter-ui: true
+#   include:
+#     author: *TITLE
+#   fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:embruna@ufl.edu
+    - icon: google 
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=mgXvbcYAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      href: https://github.com/BrunaLab
+    # - icon: orcid
+    #   text: orcid
+    #   href: https://orcid.org/0000-0003-3381-8477
+    - icon: bi-file-earmark-text
+      text: _Curriculum vitae_
+      href: https://brunalab.github.io/EmilioMBruna_CV/EmilioMBruna_CV.pdf
+      
+---
+
+<hr>
+
+<!-- {{< ai orcid >}} -->
+<!-- https://github.com/mcanouil/quarto-iconify -->
+
+:::{#about}  
+
+
+## Bio
+
+I use field experiments, long-term demographic studies, mathematical models, and computational approaches to study (1) how the demography and population dynamics of tropical plants are influenced by human activities such as deforestation and climate change, and (2) factors influencing geographic disparities in the production and spread of knowledge, with an emphasis on scholarship from Latin America.
+
+I have previously served as President of the [Association for Tropical Biology & Conservation](https://tropicalbiology.org/) and Editor-in-Chief of the journal [_Biotropica_](https://onlinelibrary.wiley.com/journal/17447429), and I am currently the Secretary of the [Ecological Society of America](https://www.esa.org/).
+
+
+## Education
+{{< meta education >}}
+
+<br>
+
+
+## Research Interests 
+
+- Tropical ecology and conservation
+- Plant population ecology
+- Plant-animal interactions
+- Habitat Fragmentation
+- Amazonia & The Cerrado
+- Scientometrics, Science of Science
+
+:::
+<!-- ## Group Publications -->
+
+<!-- :::{#pubs} -->
+<!-- ::: -->
+
+
+
+
+<!-- social: -->
+<!-- - icon: envelope -->
+<!--   icon_pack: fas -->
+<!--   link: /#contact -->
+<!-- - display: -->
+<!--     header: true -->
+<!--   icon: twitter -->
+<!--   icon_pack: fab -->
+<!--   label: Follow me on Twitter -->
+<!--   link: https://twitter.com/BrunaLab -->
+<!-- - icon: google -->
+<!--   icon_pack: fab -->
+<!--   link: https://scholar.google.com/citations?user=mgXvbcYAAAAJ&hl=en -->
+<!-- - icon: orcid -->
+<!--   icon_pack: fab -->
+<!--   link: https://orcid.org/0000-0003-3381-8477 -->
+<!-- - icon: github -->
+<!--   icon_pack: fab -->
+<!--   link: https://github.com/BrunaLab -->
+
+
+<!-- [_Curriculuum vitae_](https://brunalab.github.io/EmilioMBruna_CV/EmilioMBruna_CV.pdf) -->

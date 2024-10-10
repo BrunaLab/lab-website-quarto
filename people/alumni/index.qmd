@@ -1,0 +1,24 @@
+---
+people_group: alumni
+# title: EM
+# last: EM
+# first: EM
+# email: EM
+# education:EM
+# subtitle: ""
+# description: ""
+# affiliation: EM
+# image: 
+# listing:
+#   id: pubs
+#   template: 
+#   contents: 
+#   sort: ""
+  # sort-ui: true
+  # filter-ui: true
+  # include:
+  #   author: *TITLE
+  # fields: [publication, title, categories, image, date, author]
+page-layout: full
+
+---

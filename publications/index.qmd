@@ -1,20 +1,24 @@
 ---
-title: "Publications"
+pagetitle: "Publications
+"
+toc: false
+title-block-style: default  # default, plain, none
 listing:
-  - id: pubs
-    template: ../_ejs/publications.ejs
-    contents: ../publications/**/*.qmd
-    sort: "pub_number desc"
-    page-size: 30
-    filter-ui: true
-    fields: [image, pub_number, title, publication, author,url_source]
-page-layout: full
+  - id: articles
+    contents: ../publications/articles/**/*.qmd
+    template: ../_ejs/article.ejs
+    categories: false
+    sort:
+      - "date desc"
+      - "title"
+    sort-ui: [title,author,publication,date]
+    filter-ui: [title,author,publication,date]
+    page-size: 25
+    field-display-names: 
+      publication: "Publication"
+      date: "Year"
+format:
+  html: 
+    fontsize: 0.8em
 ---
-
-<hr>
-
-:::{#pubs}
-:::
-
-
 

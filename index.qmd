@@ -1,15 +1,15 @@
 ---
-# title: 'Welcome to the Masiello Group: <span style="color:#757883">light-matter theory at the nanoscale</span>'
+# title: 'The Bruna Lab: <span style="color:#238456">Tropical Ecology & Conservation</span>'
 # subtitle: "light-matter theory at the nanoscale"
 page-layout: full
 ---
 <div class="gradient-text">
 
 <div class="welcome-headline">
-Welcome to the Masiello Research Group<br>
+Welcome to the Bruna Lab<br>
 </div>
 <div class="welcome-subheadline">
-Light-matter theory at the nanoscale
+Tropical Ecology & Conservation
 </div>
 </div>
 
@@ -21,7 +21,9 @@ Light-matter theory at the nanoscale
 ::: grid
 ::: {.g-col-12 .g-col-lg-4 .welcome-text .sand-background style="padding: 15px;"}
 
-We are a group of theoreticians with diverse backgrounds in chemistry, physics, electrical engineering, materials science, and applied mathematics working at the interface of **electron microscopy** with **nanophotonics, quantum materials, and quantum optics**. Our research provides insight and understanding in the discovery of quantum, optical, magnetic, and thermal materials phenomena spanning the frontiers of high space, momentum, polarization, and energy resolution. Deep connection to experiment influences everything we do.
+Our goal is to understand the consequences of deforestation, habitat fragmentation, climate change, and other human activities for plant-animal interactions and plant population dynamics. While we work in many ecosystems, most of our research is conducted in tropical rain forests and savannas.
+
+
 :::
 
 :::

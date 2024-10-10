@@ -1,10 +1,10 @@
 ---
-title: "David J. Masiello"
+title: "Emilio M. Bruna"
 about: 
   id: contact
   template: solana
   image-shape: round
-  image: people/masiello-david/avatar.png
+  # image: people/embruna/avatar.jpg
 # page-layout: full
 ---
 
@@ -12,22 +12,25 @@ about:
 
 :::{#contact}
 
-#### {{< fa envelope >}} &nbsp; masiello@uw.edu
+#### {{< fa envelope >}} &nbsp; embruna@ufl.edu
 
-#### {{< fa phone >}} &nbsp; 206-543-5579
+#### {{< fa envelope >}} &nbsp; University of Florida, Wildlife Ecology and Conservation, PO Box 110430, 110 Newins-Ziegler Hall, Gainesville, FL 32611-0430
 
-#### {{< fa map-location-dot >}} &nbsp; Department of Chemistry, CHB 304F, Seattle, WA 98195-1700
+#### {{< fa phone >}} &nbsp; (352) 846-0634
 
+#### {{< fa map-location-dot >}} &nbsp; The Tropical Ecology & Conservation Lab
 
-:::
 
 
 ```{r}
 #| echo: false
+#| warning: false
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-122.30830, lat=47.65297)
+  addMarkers(lng=-82.34328, lat=29.64564)
 ```
 
-<br>
+:::
+
+

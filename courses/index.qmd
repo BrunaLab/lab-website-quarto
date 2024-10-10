@@ -1,0 +1,9 @@
+---
+title: Courses
+listing:
+  id: courses
+  type: grid
+page-layout: full
+---
+
+For information on the courses I teach follow the links below. If you have any questions, you can send me a message using the "Contact" page on the main menu.

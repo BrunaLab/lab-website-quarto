@@ -1,0 +1,67 @@
+---
+title: &TITLE Priyanka Hari Haran
+last: Hari Haran
+first: Priyanka
+people_group: current
+email: "phariharan1@ufl.edu"
+education:
+  - M.S. in Ecology and Environmental Sciences | Pondicherry University | 2018 <br> B.S. in Zoology | University of Madras | 2016
+subtitle: Ph. D. Student, School of Natural Resources & Environment
+image: avatar.jpg
+# listing:
+#   id: pubs
+#   template: ../../_ejs/publications-people.ejs 
+#   contents: ../../../publications/**/*.qmd
+#   sort: "pub_number desc"
+#   # sort-ui: true
+#   filter-ui: true
+#   include:
+#     author: *TITLE
+#   fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:phariharan1@ufl.edu
+    - text: Google Scholar
+      icon: google 
+      href: https://scholar.google.com/citations?user=Hl95YAIAAAAJ&hl=en
+    - icon: github
+      text: GitHub 
+      href: https://twitter.com/PriyankaHariH
+    - icon: orcid
+      text: orcid
+      href: https://orcid.org/0000-0002-1619-3519
+---
+
+
+<hr>
+<!-- {{< ai orcid >}} -->
+<!-- https://github.com/mcanouil/quarto-iconify -->
+
+:::{#about}  
+
+## Bio
+Priyanka is interested in how alternative restoration strategies for tropical forests influence the structure of mixed species flocks and the and the ecosystem services they provide. For more please visit her [website](https://beakofthetiger.wordpress.com/author/priyankahariharan/).
+
+
+interests:
+- community ecology
+- mixed-species flocks
+- forest restoration
+- tropical ecology
+- Western Ghats
+- Science Communication
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+

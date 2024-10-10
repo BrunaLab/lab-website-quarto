@@ -1,0 +1,46 @@
+
+```{=html}
+<ul class="pub-list list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <span class="listing-author "><%= item.author %></span>
+    <span class="listing-year">(<%= item.year %>)</span>
+    <span class="listing-title fw-bold"><%= item.title %>.</span>
+    <span class="listing-publication fst-italic "><%= item.publication %></span>
+    <span class="listing-volume "><%= item.volume %></span>
+    <span class="listing-issue ">(<%= item.issue %>):</span>
+    <span class="listing-pages "><%= item.pages %>.</span>
+    <span class="listing-doi "><%= item.doi %>.</span>
+    </br>
+    <% if (item.abstract) { %>
+    <a href="<%- item.path %>" class="btn btn-outline-primary btn-sm" target="_blank"  rel="noopener noreferrer"> <span class="abstract-box">abstract</span>
+    </a>
+    <% } %>
+    <% if (item.preprint) { %>
+    <a href="<%- item.preprint %>" class="btn btn-outline-primary btn-sm" target="_blank"  rel="noopener noreferrer"> <span class="preprint-box">preprint</span>
+    </a>
+    <% } %>
+    <% if (item.pdf) { %>
+    <a href="<%- item.pdf %>" class="btn btn-outline-primary btn-sm" target="_blank"  rel="noopener noreferrer"> <span class="pdf-box">pdf</span>
+    </a>
+    <% } %>
+    <% if (item.bib) { %>
+    <a href="<%- item.bib %>" class="btn btn-outline-primary btn-sm" target="_blank"  rel="noopener noreferrer"> <span class="bib-box">.bib</span>
+    </a>
+    <% } %>
+    <% if (item.materials) { %>
+    <a href="<%- item.Code %>" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Code
+    </a>
+    <% } %>
+    <a href="<%- item.bib %>" <button type="button" class="btn btn-outline-primary btn-sm">FOO</button>
+</a>
+
+  </li>
+<% } %>
+</ul>
+
+```
+
+
+ 

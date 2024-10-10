@@ -1,0 +1,15 @@
+---
+title: Projects
+listing:
+  id: projects
+  type: grid
+page-layout: full
+---
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('images/chalkboard_sm.jpg'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+
+<!-- </style> -->

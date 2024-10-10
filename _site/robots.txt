@@ -1,1 +1,1 @@
-Sitemap: https://faculty.washington.edu/masiello/sitemap.xml
+Sitemap: https://brunalab.org/sitemap.xml

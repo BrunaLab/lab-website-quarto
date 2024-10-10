@@ -1,8 +1,315 @@
 ---
-title: News
-listing: 
-  type: default
-  sort: "date desc"
-  fields: [date, title, description]
+# title: 'The Bruna Lab in the News'
+# listing: 
+#   type: default
+#   sort: "date desc"
+#   fields: [date, title, description]
+toc: false
 page-layout: full
 ---
+### The Bruna Lab in the News
+<!-- TODO:  -->
+
+<!-- scientist trump stories: Chronicle of Higher Education, DailyDot, Nature, Mongabay.com   -->
+
+<!-- live from rain forest -->
+
+<!-- Not quite a media appearance, but I wanted to recognize [Ambiental](http://ambiental.media/en/)  - a great new environmental journalism project in Brazil with whom we look forward to working in the future.  Read more about them and their efforts in [this story](https://medium.com/journalism-innovation/we-created-a-facebook-group-and-that-is-generating-news-4bd9a39aa709#.4v9uy34dw) by their founder, Thiago Medaglia. -->
+
+<!-- STM Society Day, Presentation by Emilio Bruna on the importance of Open Access to academic societies (Disclosure:  STM is a global trade association for academic and professional publishers. They reimbursed me for travel expenses and one night of accommodation at the conference hotel). Angela Cochran also [wrote a post in The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/2015/08/24/meeting-in-the-middle/) summarizing her reflections on the session. -->
+
+<!-- https://www.youtube.com/watch?time_continue=2&amp;v=QMe6qBbfQrk -->
+
+<!-- https://www.youtube.com/watch?v=QMe6qBbfQrk&amp;feature=youtu.be -->
+
+<center>
+
+![**Associated Press** \| David Biller\
+[Danger or delight? Uphill battle for Brazil's huge jackfruit](https://apnews.com/article/brazil-rio-de-janeiro-trees-abf6a15a804ea1485fbcec0eeed3d8d7)](images/ap.png){width="10%" height="10%"}
+
+
+</center> <hr>
+
+<center>
+
+![**MSNBC** \| Velshi & Rule\
+[Amazon Wildlifres Raise Alarm](https://www.msnbc.com/velshi-ruhle/watch/amazon-s-wildfires-raise-alarm-67011141805?fbclid=IwAR0AlKRrNT4zduQ-QHWJZZWcETth3hPOf6KxMC450hxqYKfusYQQws6VadI)"](images/msn.png){width="12%" height="12%"}
+
+<iframe loading="lazy" width="448" height="252" src="https://www.msnbc.com/msnbc/embedded-video/mmvo67011141805" scrolling="no" frameborder="0" allowfullscreen>
+
+</iframe>
+
+</center> <hr>
+
+<center>
+
+![**WIRED** \| Matt Simon\
+[Who's Burning the Amazon? Rampant Capitalism](https://www.wired.com/story/whos-burning-the-amazon-rampant-capitalism/)](images/wired.svg){width="25%" height="25%"}
+
+<!-- **WIRED** | Matt Simon | [Who's Burning the Amazon? Rampant Capitalism](https://www.wired.com/story/whos-burning-the-amazon-rampant-capitalism/) -->
+
+</center> <hr>
+
+<center>
+
+![**The Verge** \| Emiliano Rodríguez Mega\
+[Burned areas of the Amazon could take centuries to fully recover](https://www.theverge.com/2019/9/10/20858834/amazon-fire-brazil-forest-harm-recovery-century)](images/verge.png){width="20%" height="20%"}
+
+</center> <hr>
+
+<center>
+
+![**WIRED** \| Matt Simon\
+[The Horrifying Science of the Deforestation Fueling Amazon Fires](https://www.wired.com/story/the-horrifying-science-of-the-deforestation-fueling-amazon-fires/)](images/wired.svg){width="25%" height="25%"}
+
+</center> <hr>
+
+<center>
+
+![**Mashable** \| Mark Kaufman\
+[The Amazon has a point of no return](https://mashable.com/article/amazon-rainforest-fires-tipping-point-deforestation/)](images/mashable.png){width="25%" height="25%"}
+
+</center> <hr>
+
+<center>
+
+![**CBC News** \| [Amazon Fires Spark Global Concerns](http://www.cbc.ca/player/play/1591678531917)](images/cbc.jpeg){width="25%"}
+
+</center> <hr>
+
+<center>
+
+![**USA Today** \| Jorge L. Ortiz\
+[The Amazon hasn't stopped burning. There were 19,925 fire outbreaks last month, and 'more fires' are in the future](https://www.usatoday.com/story/news/nation/2019/10/18/amazon-rainforest-still-burning-more-fires-future/4011238002/)](images/usatoday.png){width="20%" height="20%"}
+
+</center> <hr>
+
+<center>
+
+![**The Atlantic** \| Ed Yong\
+[A Natural-History Museum Is Under Fire for Hosting Brazil's New President](https://www.theatlantic.com/science/archive/2019/04/amnh-under-fire-hosting-brazils-jair-bolsonaro/587068/)](images/atlantic.png){width="20%" height="20%"}
+
+</center> <hr>
+
+<center>
+
+![**Popular Science** \| Kat Eschner\
+[Brazil’s new president plans to plunder the Amazon, which is bad news for all of us](https://www.popsci.com/brazil-election-amazon-deforestation)](images/popsci.png){width="20%" height="20%"}
+
+</center> <hr>
+
+<center>
+
+![**National Geographic** \| Michael Greshko\
+[Brazil's National Museum Destroyed by Fire: What It Means for Science](https://www.nationalgeographic.com/science/2018/09/news-museu-nacional-fire-rio-de-janeiro-natural-history/)](images/natgeo.png){width="25%" height="25%"}
+
+</center> <hr>
+
+<center>
+
+![**Miradas Podcast**: [Fire, Folk, Fernández](https://www.podplay.com/podcasts/miradas-186724/episodes/7-fire-folk-fernandez-alex-schober-emilio-m-bruna-camila-moreno-24774313)](images/miradas.jpeg){width="20%" height="20%"}
+
+<!-- <iframe width="50%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/696803780&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"> -->
+
+<!-- </iframe> -->
+
+<!-- ::: {style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"} -->
+<!-- <a href="https://soundcloud.com/miradaspodcast" title="Miradas" target="_blank" style="color: #cccccc; text-decoration: none;">Miradas</a> · <a href="https://soundcloud.com/miradaspodcast/fire-folk-fernandez" title="#7 - Fire, Folk, Fernández (Alex Schober, Emilio M Bruna, Camila Moreno)" target="_blank" style="color: #cccccc; text-decoration: none;">#7 - Fire, Folk, Fernández (Alex Schober, Emilio M Bruna, Camila Moreno)</a> -->
+<!-- ::: -->
+
+</center> <hr>
+
+<center>
+
+![**Mongabay** \| Basten Gokkon\
+[Implicit gender, racial biases may hinder effectiveness of conservation science, experts warn](https://news.mongabay.com/2018/07/implicit-gender-racial-biases-may-hinder-effectiveness-of-conservation-science-experts-warn/)](images/mongabay.jpeg){width="35%" height="35%"}
+
+</center> <hr>
+
+<center>
+
+![**Chemistry World** \| Katrina Krämer\
+[Most scientific editors still come from the US or UK](https://www.chemistryworld.com/news/most-scientific-editors-still-come-from-us-or-uk/3008426.article)](images/chem_world.png){width="35%" height="35%"}
+
+</center> <hr>
+
+<center>
+
+![**The Wire** \| Sarah Iqbal\
+[Science Journals Might Be 'More International' but Not Their Editorial Boards](https://thewire.in/science/science-journals-might-international-not-editorial-boards)](images/wire.png){width="20%" height="20%"}
+
+</center> <hr>
+
+<center>
+
+![**Nature** \| Allie Wilkinson\
+[Brazilian Amazon still plagued by illegal use of natural resources](https://www.nature.com/news/brazilian-amazon-still-plagued-by-illegal-use-of-natural-resources-1.22830)](images/nature.png){width="20%" height="20%"}
+
+</center> <hr>
+
+<center>
+
+![**Gainesville Sun** \| Deborah Strange\
+[Minority students face cultural barriers to STEM education](http://www.gainesville.com/news/20170519/minority-students-face-cultural-barriers-to-stem-education)](images/gnvsun.png){width="35%" height="35%"}
+
+</center> <hr>
+
+<center>
+
+![**Mongabay** \| Mike Gaworecki\
+[Building roads for agricultural expansion in Brazil is aiding the spread of insects that harm crops](https://news.mongabay.com/2016/04/building-roads-agricultural-expansion-brazil-aiding-spread-insects-harm-crops/)](images/mongabay.jpeg){width="35%" height="35%"}
+
+</center> <hr>
+
+<center>
+
+![**Science** \| Herton Escobar\
+[Brazil cuts red-tape stifling biodiversity studies](http://news.sciencemag.org/latin-america/2015/05/brazil-cuts-red-tape-stifling-biodiversity-studies)](images/science.png){width="20%" height="20%"}
+
+</center> <hr>
+
+<center>
+
+![**NPR's Morning Edition** \| Joe Palca\
+[Why some scientific collaborations are more beneficial than others (for the series "Joe's Big Idea").](http://www.npr.org/2014/12/15/370878827/why-some-scientific-collaborations-are-more-beneficial-than-others)](images/morning_npr.png){width="22%" height="22%"}
+
+<iframe src="https://www.npr.org/player/embed/370878827/370878828" width="50%" height="200" frameborder="0" scrolling="no" title="NPR embedded audio player">
+
+</iframe>
+
+</center> <hr>
+
+<center>
+
+![**WLRN Miami Public Radio**: ["The 21st Century Sends Low-Tech Latin America A Warning: "Innovate Or Die! *(Ernane Vieira Neto and Lara Nesralla interviewed about the Science Without Borders Program)*](http://wlrn.org/post/21st-century-sends-low-tech-latin-america-warning-innovate-or-die).](images/WLRN.png){width="22%" height="22%"}
+
+<!-- <iframe width="50%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/178680000&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"> -->
+
+<!-- </iframe> -->
+
+<!-- ::: {style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"} -->
+<!-- <a href="https://soundcloud.com/wlrn" title="WLRN" target="_blank" style="color: #cccccc; text-decoration: none;">WLRN</a> · <a href="https://soundcloud.com/wlrn/the-21st-century-sends-low" title="The 21st Century Sends Low-Tech Latin America A Warning: &quot;Innovate Or Die!&quot;" target="_blank" style="color: #cccccc; text-decoration: none;">The 21st Century Sends Low-Tech Latin America A Warning: "Innovate Or Die!"</a> -->
+<!-- ::: -->
+
+</center> <hr>
+
+<center>
+
+![**Gazetta Entrevista com Rogério Wenceslau** \| Rede Record - Rio Branco, Brazil [Emilio Bruna and Steve Perz on to discuss the conservation of the Amazon and UF-UFAC partnerships](https://www.youtube.com/watch?v=F4TYMn5gyAk)](images/tvgazeta.png){width="20%" height="20%"}
+
+<iframe width="420" height="236" src="https://www.youtube.com/embed/F4TYMn5gyAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
+</center> <hr>
+
+<center>
+
+ 
+
+**TV Globo - Bom Dia Amazonia (Rio Branco, Brazil)** \| Daniel Scarcello\
+[Emilio Bruna and Steve Perz on to discuss the conservation of the Amazon and UF-UFAC partnerships](images/bomdia_amz.png){width="25%" height="25%"}
+
+</center> <hr>
+
+<center>
+
+![**Gainesville Sun** \| Jack Payne\
+[Economy, environment can thrive together (Editorial)](http://www.gainesville.com/article/20150408/OPINION03/150409701/-1/opinion?Title=Jack-Payne-Economy-environment-can-thrive-together&tc=ar)](images/gnvsun.png){width="35%" height="35%"}
+
+</center> <hr>
+
+<center>
+
+![**Howler Magazine's *Dummy* & Slate's *Hang Up and Listen* Podcasts**\
+[The Tim Howard is Everywhere Edition](http://www.howlermagazine.com/world-cup-dummy-july-2/)](images/dummy.png){width="20%" height="20%"}
+
+<iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling="no" width="81%" height="150" frameborder="0" src="https://embed.radiopublic.com/e?if=hang-up-and-listen-j6BZQ6:NTIsNTcsNDQsNTIsNTcsNDQsNTMsNDgsNDQsNTIsNTIsNDQsNTMsNTUsNDQsNTMsNTUsNDQsNTIsNTIsNDQsNTIsNTcsNDQsNTIsNTcsNDQsNTMsNTA&amp;ge=s1!17fe580f34b194df2e8f63c0036f6a6cd88e6f55">
+
+</iframe>
+
+</center> <hr>
+
+<center>
+
+![**Nature.com** \| Roberta Kwok\
+[Web Design: Webcraft 101](http://www.nature.com/naturejobs/science/articles/10.1038/nj7487-255a)](images/nature_dot_com.jpeg){width="35%" height="35%"}
+
+</center> <hr>
+
+<center>!**WUFT Radio** \| Jonathan Munoz\
+[Earth Day](images/wuft.png){width="35%" height="35%"}</center> <hr>
+
+<center>
+
+![**Mongabay** \| Rhett Butler\
+[The Future of Tropical Biology Research and Conservation](http://news.mongabay.com/2014/07/the-future-of-tropical-biology-research-and-conservation/)](images/mongabay.jpeg){width="35%" height="35%"}
+
+</center> <hr>
+
+<center>
+
+![**WSLR**: [Florida-Caribe Radio Show](http://wslr.org/show/florida-caribe)](images/wslr.png){width="25%" height="25%"}
+
+</center> <hr>
+
+<center>
+
+![**SciDevNet** \| Fred Furtado\
+[Armadillo Mascot Scores Before the World Cup Even Starts](http://www.scidev.net/global/conservation/news/armadillo-mascot-world-cup.html)](images/SciDevNet.png){width="15%" height="15%"}
+
+</center> <hr>
+
+<center>
+
+![**The Scientist** \| Chandra Sekhar\
+[Diversity Travels](http://www.the-scientist.com/?articles.view/articleNo/24295/title/Diversity-Travels/)](images/scientist.jpeg){width="35%" height="35%"}
+
+</center> <hr>
+
+<center>
+
+![***Science Magazine*** **Minority Scientists Network** \| Robin Arnette\
+[Into the Jungle](http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2005_04_08/nodoi.9892816572024747957)](images/science_careers.png){width="40%" height="40%"}
+
+</center> <hr>
+
+<center>
+
+![**Televisão Universitária (Uberlândia, Brazil)**](images/tvu_ufu.png){width="30%" height="30%"}
+
+</center> <hr>
+
+<center>
+
+![**Folha de São Paulo** \| Reinaldo José Lopes\
+[Causa de devastação da Amazônia motiva polêmica](http://www1.folha.uol.com.br/folha/ciencia/ult306u12943.shtml)](images/folha.png){width="40%" height="40%"}
+
+</center> <hr>
+
+<center>
+
+![**NPR's Weekend Edition Saturday** \| Martin Kaste\
+[Brazilian Biodiversity](http://www.npr.org/templates/story/story.php?storyId=1149282)](images/npr_weekend.png){width="20%" height="20%"}
+
+</center> <hr>
+
+<center>
+
+![**BBC World Service Radio 4**: Sue Armstrong](images/bbc4.svg){width="25%" height="25%"}
+
+</center> <hr>
+
+<center>
+
+![**Modern Times**, Austrian Public Television \| Günther Mayr\
+[Ants, the kings of the rainforest](https://sciencev1.orf.at/news/47465.html)](images/orf.jpeg){width="30%" height="30%"}
+
+</center> <hr>
+
+<center>
+
+![**New Scientist** \| Philip Cohen\
+[Lizards keep their differences to themselves](http://www.newscientist.com/article/mg15120372.900-science--lizards-keep-their-differences-to-themselves.html)](images/new_scientist.png){width="25%" height="25%"}
+
+</center> <hr>

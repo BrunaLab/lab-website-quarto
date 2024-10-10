@@ -1,0 +1,62 @@
+---
+title: &TITLE Eric Escobar-Chena
+last: Escobar-Chena
+first: Eric
+people_group: current
+email: "eescobarchena@ufl.edu"
+education:
+  - B.S. Biology | Virginia Commonwealth University | 2022 
+subtitle: MS Student, Wildlife Ecology & Conservation
+description: ""
+image: avatar.jpg
+# listing:
+#   id: pubs
+#   template: ../../_ejs/publications-people.ejs 
+#   contents: ../../../publications/**/*.qmd
+#   sort: "pub_number desc"
+#   # sort-ui: true
+#   filter-ui: true
+#   include:
+#     author: *TITLE
+#   fields: [publication, title, categories, image, date, author]
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:eescobarchena@ufl.edu
+---
+
+
+
+<hr>
+
+
+:::{#about}
+
+## Bio
+
+
+
+Eric is interested in how how the ecology of beetles is influenced by changes in landscape structure.
+
+interests:
+- Insect Ecology, esp. Coleoptera
+- Habitat Fragmentation
+
+## Education
+
+{{< meta education >}}
+
+<br>
+
+:::
+
+<!-- ## {{< meta first >}}'s Group Publications -->
+
+<!-- :::{#pubs} -->
+<!-- ::: -->
