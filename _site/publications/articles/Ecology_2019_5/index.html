@@ -110,7 +110,7 @@ window.Quarto = {
 
 <meta name="twitter:title" content="The Bruna Lab - Statistical Modeling of Patterns in Annual Reproductive Rates">
 <meta name="twitter:description" content="Reproduction by individuals is typically recorded as count data (e.g., number of fledglings from a nest or inflorescences on a plant) and commonly modeled using Poisson or negative binomial distributions, which assume that variance is greater than or equal to the mean. However, distributions of reproductive effort are often underdispersed (i.e., variance \(<\) mean). When used in hypothesis tests, models that ignore underdispersion will be overly conservative and may fail to detect significant patterns. Here we show that generalized Poisson (GP) and Conway-Maxwell-Poisson (CMP) distributions are better choices for modeling reproductive effort because they can handle both overdispersion and underdispersion; we provide examples of how ecologists can use GP and CMP distributions in generalized linear models (GLMs) and generalized linear mixed models (GLMMs) to quantify patterns in reproduction. Using a new R package, glmmTMB, we construct GLMMs to investigate how rainfall and population density influence the number of fledglings in the warbler Oreothlypis celata and how flowering rate of Heliconia acuminata differs between fragmented and continuous forest. We also demonstrate how to deal with zero-inflation, which occurs when there are more zeros than expected in the distribution, e.g., due to complete reproductive failure by some individuals.">
-<meta name="twitter:image" content="https://brunalab.org/publications/articles/ecology_2019_5/featured.png">
+<meta name="twitter:image" content="https://silly-salmiakki-337c0b.netlify.app/publications/articles/ecology_2019_5/featured.png">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -308,7 +308,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/brunalab\.org\/");
+      var filterRegex = new RegExp("https:\/\/silly-salmiakki-337c0b\.netlify\.app");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
