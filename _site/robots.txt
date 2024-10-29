@@ -1,1 +1,1 @@
-Sitemap: https://brunalab.org/sitemap.xml
+Sitemap: https://silly-salmiakki-337c0b.netlify.app/sitemap.xml

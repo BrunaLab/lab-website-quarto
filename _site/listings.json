@@ -1,5 +1,30 @@
 [
   {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/eechena/index.html",
+      "/people/nattias/index.html",
+      "/people/phari/index.html",
+      "/people/alumni/index.html"
+    ]
+  },
+  {
+    "listing": "/courses/index.html",
+    "items": [
+      "/courses/las6292-data/index.html",
+      "/courses/wis2323-quest/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/ant-plant/index.html",
+      "/projects/heliconia/index.html",
+      "/projects/latam_science/index.html",
+      "/projects/cerrado/index.html"
+    ]
+  },
+  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/articles/annual_review_of_ecology,_evolution,_and_systematics_in press_75/index.html",
@@ -135,37 +160,6 @@
       "/publications/articles/proceedings_of_the_royal_society_of_london_series_b_biological_sciences_1996_42/index.html",
       "/publications/articles/copeia_1996_44/index.html",
       "/publications/articles/copeia_1995_18/index.html"
-    ]
-  },
-  {
-    "listing": "/projects/index.html",
-    "items": [
-      "/projects/ant-plant/index.html",
-      "/projects/heliconia/index.html",
-      "/projects/latam_science/index.html",
-      "/projects/cerrado/index.html"
-    ]
-  },
-  {
-    "listing": "/people/index.html",
-    "items": [
-      "/people/eechena/index.html",
-      "/people/nattias/index.html",
-      "/people/phari/index.html",
-      "/people/alumni/index.html"
-    ]
-  },
-  {
-    "listing": "/courses/index.html",
-    "items": [
-      "/courses/las6292-data/index.html",
-      "/courses/wis2323-quest/index.html"
-    ]
-  },
-  {
-    "listing": "/news/index.html",
-    "items": [
-      "/news/2022-08-24-new-pub/index.html"
     ]
   }
 ]
