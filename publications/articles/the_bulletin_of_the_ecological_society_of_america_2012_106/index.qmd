@@ -1,6 +1,6 @@
 ---
 title: "Harnessing Smartphones for Ecological Education, Research, and Outreach"
-date: "2012"
+year: "2012"
 author: ["Matthew J. Palumbo", "Shelly A. Johnson", "Fabiane M. Mundim", "Anthony Lau", "Andrea C. Wolf", "Subramaniam Arunachalam", "Oscar Gonzalez", "Jennifer L. Ulrich", "Amy Washuta", "Emilio M. Bruna"]
 publication: "The Bulletin of the Ecological Society of America"
 volume: "93"

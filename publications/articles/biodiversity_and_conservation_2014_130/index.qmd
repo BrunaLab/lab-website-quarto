@@ -1,6 +1,6 @@
 ---
 title: "The Role of Roadsides in Conserving Cerrado Plant Diversity"
-date: "2014"
+year: "2014"
 author: ["Pedro B. Vasconcelos", "Glein M. Araujo", "Emilio M. Bruna"]
 publication: "Biodiversity and Conservation"
 volume: "23"

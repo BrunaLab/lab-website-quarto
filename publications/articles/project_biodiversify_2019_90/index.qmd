@@ -1,6 +1,6 @@
 ---
 title: "Emilio Bruna"
-date: "2019"
+year: "2019"
 author: ["L. Johnson-Ulrich", "Emilio M. Bruna"]
 publication: "Project Biodiversify"
 volume: "none"

@@ -1,6 +1,6 @@
 ---
 title: "Altered Resource Availability and the Population Dynamics of Tree Species in Amazonian Secondary Forests"
-date: "2010"
+year: "2010"
 author: ["Lucas Berio Fortini", "Emilio M. Bruna", "Daniel J. Zarin", "Steel S. Vasconcelos", "Izildinha S. Miranda"]
 publication: "Oecologia"
 volume: "162"

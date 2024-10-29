@@ -1,6 +1,6 @@
 ---
 title: "Are Plant Populations in Fragmented Habitats Recruitment Limited? Tests with an Amazonian Herb"
-date: "2003"
+year: "2003"
 author: ["Emilio M. Bruna"]
 publication: "Ecology"
 volume: "84"

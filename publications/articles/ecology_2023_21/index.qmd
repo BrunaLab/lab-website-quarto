@@ -1,6 +1,6 @@
 ---
-title: "Demography of the Understory Herb Eliconia Acuminata (Heliconiaceae) in an Experimentally Fragmented Tropical Landscape"
-date: "2023"
+title: "Demography of the Understory Herb <i>Heliconia acuminata</i> (Heliconiaceae) in an Experimentally Fragmented Tropical Landscape"
+year: "2023"
 author: ["Emilio M. Bruna", "Maria Uriarte", "Maria Rosa Darrigo", "Paulo Rubim", "Cristiane F. Jurinitz", "Eric R. Scott", "Osmaildo Ferreira da Silva", "W. John Kress"]
 publication: "Ecology"
 volume: "104"

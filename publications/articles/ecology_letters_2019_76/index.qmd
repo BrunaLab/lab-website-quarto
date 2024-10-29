@@ -1,6 +1,6 @@
 ---
 title: "Towards a Unified Framework for Connectivity That Disentangles Movement and Mortality in Space and Time"
-date: "2019"
+year: "2019"
 author: ["Robert J. Fletcher", "Jorge A. Sefair", "Chao Wang", "Caroline L. Poli", "Thomas A. H. Smith", "Emilio M. Bruna", "Robert D. Holt", "Michael Barfield", "Andrew J. Marx", "Miguel A. Acevedo"]
 publication: "Ecology Letters"
 volume: "22"

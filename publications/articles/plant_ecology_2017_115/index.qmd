@@ -1,6 +1,6 @@
 ---
 title: "Seed Removal Patterns of Pioneer Trees in an Agricultural Landscape"
-date: "2017"
+year: "2017"
 author: ["Maya Rocha-Ortega", "Alessandra Bartimachi", "Jorge Neves", "Emilio M. Bruna", "Heraldo L. Vasconcelos"]
 publication: "Plant Ecology"
 volume: "218"

@@ -20,8 +20,7 @@ page-layout: full
 
 ::: {#first-column}
 
-
-**We study the ecological consequences of deforestation, habitat fragmentation, climate change, and other human activities, with a particular interest in population dynamics and interspecific interactions. While we work in many ecosystems with a diversity of species, most of our research is conducted in tropical rain forests and savannas.**
+**Research in our lab focuses on: (1) the ecology and conservation of tropical biodiversity, (2) plant population dynamics and plant-animal interactions in fragmented tropical landscapes, and (3) the structure of scientific institutions and networks, and how  these structures influence global patterns of scientific productivity.**
 
 <a class="btn btn-primary" href="news/index.qmd" role="button">The Bruna Lab in the News</a>. 
 
@@ -41,7 +40,7 @@ page-layout: full
 <!-- :::: {layout="[ 25, 25, 25, 25 ]"} -->
 
 <!-- ::: {#first-column} -->
-<!-- <!-- ![](./images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png) --> -->
+<!-- <!-- ![](./images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png) --> 
 <!-- ::: -->
 
 <!-- ::: {#second-column} -->

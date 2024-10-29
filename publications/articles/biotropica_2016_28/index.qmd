@@ -1,6 +1,6 @@
 ---
 title: "2016 Luis F. Bacardi Award, Alwyn Gentry Awards"
-date: "2016"
+year: "2016"
 author: ["Bruna, EM"]
 publication: "Biotropica"
 volume: "48"

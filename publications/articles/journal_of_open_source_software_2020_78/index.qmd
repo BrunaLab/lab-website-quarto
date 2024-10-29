@@ -1,6 +1,6 @@
 ---
 title: "Refsplitr: Author Name Disambiguation, Author Georeferencing, and Mapping of Coauthorship Networks with Web of Science Data"
-date: "2020"
+year: "2020"
 author: ["Auriel M. v Fournier", "Matthew E. Boone", "Forrest R. Stevens", "Emilio M. Bruna"]
 publication: "Journal of Open Source Software"
 volume: "5"

@@ -1,0 +1,20 @@
+---
+title: "A Lack of Open Data Standards for Large Infrastructure Project Hampers Social-Ecological Research in the Brazilian Amazon"
+year: "2024"
+author: ["J.L. Hyde", "A.C. Swanson", "S.A. Bohlman", "S. Athayde", "E.M. Bruna", "D.R. Valle"]
+publication: "preprint"
+volume: "none"
+number: "none"
+pages: "none"
+doi: "10.1101/2024.02.06.579211"
+abstract: "New infrastructure projects are planned or under construction in several countries, including in the bioculturally diverse Amazon, Mekong, and Congo regions. While infrastructure development can improve human health and living standards, it may also lead to environmental degradation and social change. Accessible, high quality data about infrastructure projects is essential for both monitoring them available under aCC-BY-NC-ND 4.0 International license."
+categories: 
+  - 
+url: "http://biorxiv.org/lookup/doi/10.1101/2024.02.06.579211"
+image: featured.png
+url_preprint: "https://www.biorxiv.org/content/10.1101/2024.02.06.579211v1"
+url_code: ""
+url_dataset: ""
+bib: './articles/preprint_2024_86/cite.bib'
+pdf: './articles/preprint_2024_86/Hyde_et_al_2024.pdf'
+---

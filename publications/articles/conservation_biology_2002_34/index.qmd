@@ -1,6 +1,6 @@
 ---
-title: "Habitat Fragmentation and the Demographic Structure of an Amazonian Understory Herb (Heliconia Acuminata)"
-date: "2002"
+title: "Habitat Fragmentation and the Demographic Structure of an Amazonian Understory Herb (<i>Heliconia acuminata</i>)"
+year: "2002"
 author: ["Emilio M. Bruna", "W. John Kress"]
 publication: "Conservation Biology"
 volume: "16"

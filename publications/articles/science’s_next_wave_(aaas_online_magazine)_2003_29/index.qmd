@@ -1,6 +1,6 @@
 ---
 title: "For the Love of Nature"
-date: "2003"
+year: "2003"
 author: ["Bruna, Emilio"]
 publication: "Science’s Next Wave (AAAS Online Magazine)"
 volume: "none"

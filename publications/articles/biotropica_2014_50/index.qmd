@@ -1,6 +1,6 @@
 ---
 title: "A Word from the Editor-in-Chief"
-date: "2014"
+year: "2014"
 author: ["Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "46"

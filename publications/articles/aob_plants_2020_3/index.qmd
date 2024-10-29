@@ -1,6 +1,6 @@
 ---
 title: "Advancing an Interdisciplinary Framework to Study Seed Dispersal Ecology"
-date: "2020"
+year: "2020"
 author: ["Noelle G Beckman", "Clare E Aslan", "Haldre S Rogers", "Oleg Kogan", "Judith L Bronstein", "James M Bullock", "Florian Hartig", "Janneke HilleRisLambers", "Ying Zhou", "Damaris Zurell", "Jedediah F Brodie", "Emilio M Bruna", "Robert Stephen Cantrell", "Robin R Decker", "Edu Efiom", "Evan C Fricke", "Katherine Gurski", "Alan Hastings", "Jeremy S Johnson", "Bette A Loiselle", "Maria N Miriti", "Michael G Neubert", "Liba Pejchar", "John R Poulsen", "Gesine Pufal", "Onja H Razafindratsima", "Manette E Sandor", "Katriona Shea", "Sebastian Schreiber", "Eugene W Schupp", "Rebecca S Snell", "Christopher Strickland", "Jenny Zambrano"]
 publication: "AoB PLANTS"
 volume: "12"

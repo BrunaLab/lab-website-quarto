@@ -1,6 +1,6 @@
 ---
 title: "Longevity Can Buffer Plant and Animal Populations against Changing Climatic Variability"
-date: "2008"
+year: "2008"
 author: ["William F. Morris", "Catherine A. Pfister", "Shripad Tuljapurkar", "Chirrakal V. Haridas", "Carol L. Boggs", "Mark S. Boyce", "Emilio M. Bruna", "Don R. Church", "Tim Coulson", "Daniel F. Doak", "Stacey Forsyth", "Jean-Michel Gaillard", "Carol C. Horvitz", "Susan Kalisz", "Bruce E. Kendall", "Tiffany M. Knight", "Charlotte T. Lee", "Eric S. Menges"]
 publication: "Ecology"
 volume: "89"

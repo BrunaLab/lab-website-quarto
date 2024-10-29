@@ -1,6 +1,6 @@
 ---
-title: "\emphHeliconia Acuminata Reproductive Success Is Independent of Local Floral Density"
-date: "2004"
+title: "<i>Heliconia acuminata</i> Reproductive Success Is Independent of Local Floral Density"
+year: "2004"
 author: ["Emilio M. Bruna", "W. John Kress", "Francisco Marques", "Osmaildo Ferreira da Silva"]
 publication: "Acta Amazonica"
 volume: "34"

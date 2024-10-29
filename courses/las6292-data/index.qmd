@@ -1,5 +1,5 @@
 ---
-title: Data Collection and Management (LAS 6292)
+title: Data Collection & Management \n(LAS 6292)
 alias: &ALIAS data
 image: featured.jpeg
 # listing:
@@ -14,7 +14,11 @@ image: featured.jpeg
 #   fields: [publication, title, categories, image, date, author]
 ---
 
-_Graduate, 3 credits, Spring Semester_
+_Graduate Course_, _3 credits_, _Spring Semester_  
+
+## Link to Course Website  
+
+<a class="btn btn-primary" href="https://las6292.netlify.app/" role="button">Link to Course Website</a>. 
 
 ## Course Objectives  
 
@@ -45,25 +49,29 @@ All students will clean and organize real data sets — ideally their own — an
 
 {{< mention "admin" >}} -->
 
+
 ## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
+::: {.callout-note collapse="true"}
+## Are there prerequisites?
 There are no prerequisites other than graduate student standing
-{{< /spoiler >}}
+:::
 
-{{< spoiler text="Can I take the class if I have no prior programming experience?" >}}
-YES! I assume you have no prior experience with programming
-{{< /spoiler >}}
+::: {.callout-note collapse="true"}
+## Can I take the class if I have no prior programming experience?
+YES! I assume you have no prior experience with programming.
+:::
 
-{{< spoiler text="Is this course for students from particular disciplines?" >}}
+::: {.callout-note collapse="true"}
+## Is this course for students from particular disciplines?
 This course was created for students in the TCD and MALAS program, whose multidisciplinary projects often require collecting a combination of quantitative and qualitative data. It is appropriate for students from *all* fields: biophysical sciences, social sciences, humanities, education, journalism, etc. 
-{{< /spoiler >}}
+:::
 
-{{< spoiler text="Does this course count towards the TCD concentration?" >}}
+::: {.callout-note collapse="true"}
+## Does this course count towards the TCD concentration?
 This course is in the _TCD Methods_ category, so PhD students earning the TCD concentration can count this course towards their contration requirements.
-{{< /spoiler >}}
+:::
 
-{{< cta cta_text="Link to Course Website" cta_link="https://las6292.netlify.app/" >}}
 
-{{< figure src="featured.jpeg" >}}
+
 

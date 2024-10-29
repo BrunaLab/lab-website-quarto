@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Current courses
 listing:
   id: courses
   type: grid

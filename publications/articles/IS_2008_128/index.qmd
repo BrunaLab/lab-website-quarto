@@ -1,0 +1,20 @@
+---
+title: "Efeitos Da Herbivoria Por Formigas Do Gênero <i>Atta</i> Fabricius, 1804 (Hymenoptera: Formicidae) Sobre a Vegetação Do Cerrado."
+year: "2008"
+author: ["H. L . Vasconcelos", "A. N. Costa", "E. H. M. Vieira-Neto", "E. M. Bruna"]
+publication: "Insetos Soçias: da biologia a aplicação"
+volume: "none"
+number: "none"
+pages: "301-311"
+doi: "none"
+abstract: "none"
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/IS_2008_128/cite.bib'
+pdf: './articles/IS_2008_128/.pdf'
+---

@@ -1,6 +1,6 @@
 ---
 title: "Effects of Forest Fragmentation on the Seedling Recruitment of a Tropical Herb: Assessing Seed vs. Safe-Site Limitation"
-date: "2010"
+year: "2010"
 author: ["Maria Uriarte", "Emilio M. Bruna", "Paulo Rubim", "Marina Anciaes", "Inge Jonckheere"]
 publication: "Ecology"
 volume: "91"

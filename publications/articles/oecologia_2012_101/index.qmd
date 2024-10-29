@@ -1,6 +1,6 @@
 ---
 title: "Attack Frequency and the Tolerance to Herbivory of Neotropical Savanna Trees"
-date: "2012"
+year: "2012"
 author: ["Fabiane M. Mundim", "Emilio M. Bruna", "Ernane H. M. Vieira-Neto", "Heraldo L. Vasconcelos"]
 publication: "Oecologia"
 volume: "168"

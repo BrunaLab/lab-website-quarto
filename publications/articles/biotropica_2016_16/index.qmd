@@ -1,6 +1,6 @@
 ---
-title: "Biotropica Renames Its ‘Outstanding Paper’ Awards for Two Pioneering Scientists"
-date: "2016"
+title: "<i>Biotropica</i> Renames Its ‘Outstanding Paper’ Awards for Two Pioneering Scientists"
+year: "2016"
 author: ["Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "48"

@@ -1,6 +1,6 @@
 ---
 title: "2022 ATBC Honorary Fellows"
-date: "2022"
+year: "2022"
 author: ["Emilio Bruna", "Jennifer S. Powers", "Lucia G. Lohmann"]
 publication: "Biotropica"
 volume: "54"

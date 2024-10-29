@@ -1,6 +1,6 @@
 ---
 title: "Ecosystem Decay of Amazonian Forest Fragments: A 22-Year Investigation"
-date: "2002"
+year: "2002"
 author: ["William F. Laurance", "Thomas E. Lovejoy", "Heraldo L. Vasconcelos", "Emilio M. Bruna", "Raphael K. Didham", "Philip C. Stouffer", "Claude Gascon", "Richard O. Bierregaard", "Susan G. Laurance", "Erica Sampaio"]
 publication: "Conservation Biology"
 volume: "16"

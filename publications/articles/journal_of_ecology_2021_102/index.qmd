@@ -1,6 +1,6 @@
 ---
 title: "Disentangling the Influence of Water Limitation and Simultaneous above and Belowground Herbivory on Plant Tolerance and Resistance to Stress"
-date: "2021"
+year: "2021"
 author: ["Fabiane M. Mundim", "Ernane H. M. Vieira-Neto", "Hans Alborn", "Emilio M. Bruna"]
 publication: "Journal of Ecology"
 volume: "109"

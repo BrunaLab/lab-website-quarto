@@ -1,6 +1,6 @@
 ---
-title: "Edge Effects on Growth and Biomass Partitioning of an Amazonian Understory Herb ( \emphHeliconia\emph Acuminata ; Heliconiaceae)"
-date: "2011"
+title: "Edge Effects on Growth and Biomass Partitioning of an Amazonian Understory Herb (<i>Heliconia acuminata</i>; Heliconiaceae)"
+year: "2011"
 author: ["Emilio M. Bruna", "Ana Segalin Andrade"]
 publication: "American Journal of Botany"
 volume: "98"

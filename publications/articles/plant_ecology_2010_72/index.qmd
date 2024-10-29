@@ -1,6 +1,6 @@
 ---
 title: "Alternative Spatial Sampling in Studies of Plant Demography: Consequences for Estimates of Population Growth Rate"
-date: "2010"
+year: "2010"
 author: ["Ian J. Fiske", "Emilio M. Bruna"]
 publication: "Plant Ecology"
 volume: "207"

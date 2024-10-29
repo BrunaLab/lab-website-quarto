@@ -1,6 +1,6 @@
 ---
 title: "Lower Ant Diversity on Earth Mounds in a Semi-Arid Brazilian Ecosystem: Natural or a Sign of Degradation?"
-date: "2016"
+year: "2016"
 author: ["Karine S. Carvalho", "Marcos Augusto Ferraz Carneiro", "Ivan Cardoso Nascimento", "Amartya Kumar Saha", "Emilio Miguel Bruna"]
 publication: "Sociobiology"
 volume: "63"

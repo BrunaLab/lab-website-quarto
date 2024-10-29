@@ -14,16 +14,18 @@ website:
   back-to-top-navigation: true
   page-navigation: false
   search: true
+  # body-footer: 'TEST'
   page-footer: 
     background: "#FFFFFF"
-    left:  '![](./images/full_logo_hum_wide.png)' 
-    center: '![](./images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png){height=10%}'
+    left: '[![](/images/bruna-logo-full.png){fig-alt="brunalab logo" height=110px}](https://tropicos.netlify.app/)'
+    center: '[![](/images/Vertical_Logo_Reversed-RGB_Raster-BLUE2.png){fig-alt="UF logo" height=110px}](https://www.ufl.edu/)'
     # center: Made by Emilio M. Bruna with <br> {{< fa brands r-project fa-2xs >}} and 
     #   [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=105px}](https://quarto.org/) 
-    right: Made by Emilio M. Bruna with <br> {{< fa brands r-project >}} and 
-      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=105px}](https://quarto.org/) <br>
-      Code available at [<i class="fa fa-brands fa-github" style="color:#238456"></i>](https://github.com/BrunaLab/QuartoBrunaWebsite)<br>
-      
+    right: Made with {{< fa brands r-project size=2x >}} and 
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" height=30px}](https://quarto.org/) <br>
+      Code at {{< fa brands github  size=2x >}}<br>
+    
+    
       # - icon: github color: fill='#465672' {fig-alt="Quarto" width=105px}
       #   href: https://github.com/BrunaLab/QuartoBrunaWebsite
       # 
@@ -31,13 +33,13 @@ website:
   navbar:
     search: true
     title: false
-    logo: images/bruna-logo-bird.png
-    # logo: images/bruna-logo-full.png
+    # logo: images/bruna-logo-bird.png
+    logo: images/bruna-logo-full.png
     background: "#FFFFFF"
     logo-alt: "Bruna Lab"
     left:
-      # - href: people/embruna/index.qmd
-      #   text: Emilio M. Bruna
+      - href: people/embruna/index.qmd
+        text: Emilio M. Bruna
       - href: people/index.qmd
         text: lab members
       - href: projects/index.qmd
@@ -83,6 +85,7 @@ format:
     smooth-scroll: true
     resources:
       - images
-
+# filters:
+#   - auto-dark
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Do Herbivores Exert Top‐down Effects in Neotropical Savannas? Estimates of Biomass Consumption by Leaf‐cutter Ants"
-date: "2008"
+year: "2008"
 author: ["Alan N. Costa", "Heraldo L. Vasconcelos", "Ernane H.M. Vieira-Neto", "Emilio M. Bruna"]
 publication: "Journal of Vegetation Science"
 volume: "19"

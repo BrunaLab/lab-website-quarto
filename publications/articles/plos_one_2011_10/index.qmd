@@ -1,6 +1,6 @@
 ---
 title: "Asymmetric Dispersal and Colonization Success of Amazonian Plant-Ants Queens"
-date: "2011"
+year: "2011"
 author: ["Emilio M. Bruna", "Thiago J. Izzo", "Brian D. Inouye", "Maria Uriarte", "Heraldo L. Vasconcelos"]
 publication: "PLoS ONE"
 volume: "6"

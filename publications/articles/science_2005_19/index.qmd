@@ -1,6 +1,6 @@
 ---
 title: "A Delicate Balance in Amazonia."
-date: "2005"
+year: "2005"
 author: ["E. M. Bruna", "K. A. Kainer"]
 publication: "Science"
 volume: "307"

@@ -1,6 +1,6 @@
 ---
 title: "Evaluating Conceptual Models of Landscape Change"
-date: "2017"
+year: "2017"
 author: ["Lars A. Brudvig", "Shawn J. Leroux", "Cecile H. Albert", "Emilio M. Bruna", "Kendi F. Davies", "Robert M. Ewers", "Douglas J. Levey", "Renata Pardini", "Julian Resasco"]
 publication: "Ecography"
 volume: "40"

@@ -1,20 +1,30 @@
 ---
-title: "Experimental Assessment of Heliconia Acuminata Growth in a Fragmented Amazonian Landscape"
-date: "2002"
+title: "Experimental Assessment of <i>Heliconia acuminata</i> Growth in a Fragmented Amazonian Landscape"
+year: "2002"
 author: ["E. M. Bruna", "O. Nardy", "S. Y. Strauss", "S. P. Harrison"]
 publication: "Journal of Ecology"
 volume: "90"
 number: "4"
-pages: "639-649."
-doi: "none"
-abstract: "none"
+pages: "639-649"
+doi: "10.1046/j.1365-2745.2002.00707.x"
+abstract: "Fragmentation severely alters physical conditions in forest understories, but few studies have connected these changes to demographic impacts on forest species using detailed experimental examination at the individual and population levels. Using a 32‐month, reciprocal‐transplant experiment, we show that individuals of the Amazonian understory herb Heliconia acuminata transplanted into forest fragments lost over 20% of their vegetative shoots, while those transplanted to continuous forest showed a slight gain. The leaf area of plants in fragments also increased at half the rate it did in continuous forest sites. It appears that the normal dry season stresses to which forest understorey plants are exposed are greatly exacerbated in fragments, causing plants to shed shoots and leaves. The observed shifts in size could help explain why populations in fragments are more skewed towards smaller demographic stage classes than those in continuous forest. These shifts in size structure could also result in reduced abundances of flowering plants, as reproduction in H. acuminata is positively correlated with shoot number. Fragmentation‐related changes in growth rates resulting from abiotic stress may have significant demographic consequences."
 categories: 
-  - 
-url: "none"
+  - biodiversity
+  - habitat fragmentation
+  - microclimate
+  - photoinhibition
+  - plant
+  - rain-forest fragmentation
+  - responses
+  - soil-moisture
+  - vegetation
+  - water status
+url: "https://besjournals.onlinelibrary.wiley.com/doi/10.1046/j.1365-2745.2002.00707.x"
+
 image: featured.png
 url_preprint: ""
 url_code: ""
 url_dataset: ""
 bib: './articles/journal_of_ecology_2002_30/cite.bib'
-pdf: './articles/journal_of_ecology_2002_30/Bruna_et_al_2002_JOEpdf_NA.pdf'
+pdf: './articles/journal_of_ecology_2002_30/Bruna_et_al_2002_JOE.pdf'
 ---

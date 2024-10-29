@@ -1,6 +1,6 @@
 ---
 title: "Delayed Effects of Climate on Vital Rates Lead to Demographic Divergence in Amazonian Forest Fragments"
-date: "2021"
+year: "2021"
 author: ["Eric R. Scott", "Maria Uriarte", "Emilio M. Bruna"]
 publication: "Global Change Biology"
 volume: ""

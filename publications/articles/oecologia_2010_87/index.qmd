@@ -1,6 +1,6 @@
 ---
 title: "Effects of Resource Availability on Seedling Recruitment in a Fire-Maintained Savanna"
-date: "2010"
+year: "2010"
 author: ["Gwenllian D. Iacona", "L. Katherine Kirkman", "Emilio M. Bruna"]
 publication: "Oecologia"
 volume: "163"

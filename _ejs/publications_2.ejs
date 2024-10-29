@@ -1,0 +1,17 @@
+```{=html}
+<ul class="pub-list list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <span class="listing-authors"><%= item.authors %>. </span>
+    <span class="listing-year">(<%= item.year %>). </span>
+    <span class="listing-title"><%= item.title %>. </span>
+    <span class="listing-publication fst-italic "><%= item.publication %>.</span>
+    <br />
+    <a href="<%- item.path %>" class="btn btn-primary">
+      Details
+    </a>
+    <% if (item.doi) { %>
+    <a href="<%- item.doi %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+```

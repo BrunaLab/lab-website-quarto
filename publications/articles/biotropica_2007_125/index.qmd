@@ -1,6 +1,6 @@
 ---
 title: "2007 Biotropica Award for Excellence in Tropical Biology and Conservation"
-date: "2007"
+year: "2007"
 author: ["Heraldo L. Vasconcelos"]
 publication: "Biotropica"
 volume: "39"

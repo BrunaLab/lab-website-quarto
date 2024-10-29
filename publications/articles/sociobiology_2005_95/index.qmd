@@ -1,6 +1,6 @@
 ---
 title: "Ant-Tended Hemiptera in Amazonian Myrmecophytes: Patterns of Abundance and Implications for Mutualism Function (Hymenoptera : Formicidae)"
-date: "2005"
+year: "2005"
 author: ["David M. Lapola", "Emilio M. Bruna", "\relax CG de Willink", "Heraldo L. Vasconcelos"]
 publication: "Sociobiology"
 volume: "46"

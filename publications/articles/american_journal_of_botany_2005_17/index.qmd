@@ -1,6 +1,6 @@
 ---
 title: "The Compensatory Responses of an Understory Herb to Experimental Damage Are Habitat‐dependent"
-date: "2005"
+year: "2005"
 author: ["Emilio M. Bruna", "Maria Beatriz Nogueira Ribeiro"]
 publication: "American Journal of Botany"
 volume: "92"

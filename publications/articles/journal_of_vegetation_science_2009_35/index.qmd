@@ -1,6 +1,6 @@
 ---
 title: "Habitat Fragmentation and Plant Populations: Is What We Know Demographically Irrelevant?"
-date: "2009"
+year: "2009"
 author: ["Emilio M. Bruna", "Ian J. Fiske", "Matthew D. Trager"]
 publication: "Journal of Vegetation Science"
 volume: "20"

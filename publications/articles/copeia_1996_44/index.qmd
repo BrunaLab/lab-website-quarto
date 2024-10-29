@@ -1,6 +1,6 @@
 ---
-title: "New Evidence of Habitat Segregation between Two Cryptic Species of Pacific Skinks (Emoia Cyanura and E. Impar)"
-date: "1996"
+title: "New Evidence of Habitat Segregation between Two Cryptic Species of Pacific Skinks (<i>Emoia cyanura</i> and <i>E. impar<i>)"
+year: "1996"
 author: ["Emilio M. Bruna", "Robert N. Fisher", "Ted J. Case"]
 publication: "Copeia"
 volume: "1996"

@@ -1,6 +1,6 @@
 ---
 title: "Experimental Test for Facilitation of Seedling Recruitment by the Dominant Bunchgrass in a Fire-Maintained Savanna"
-date: "2012"
+year: "2012"
 author: ["Gwenllian D. Iacona", "L. Katherine Kirkman", "Emilio M. Bruna"]
 publication: "PLoS ONE"
 volume: "7"

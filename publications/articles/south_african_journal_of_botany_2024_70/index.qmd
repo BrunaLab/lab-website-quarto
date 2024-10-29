@@ -1,6 +1,6 @@
 ---
 title: "Does Chronic Nitrogen Deposition Have Effects on Grass Physiology of Natural Habitats?"
-date: "2024"
+year: "2024"
 author: ["Ana Maria Ferreira", "Ana Paula Faria", "Heraldo L. Vasconcelos", "Emilio M. Bruna", "Vladimir Eliodoro Costa", "Ana Silvia Franco Pinheiro Moreira"]
 publication: "South African Journal of Botany"
 volume: "165"

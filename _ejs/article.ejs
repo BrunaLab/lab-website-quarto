@@ -3,10 +3,11 @@
 <% for (const item of items) { %>
   <li <%= metadataAttrs(item) %>>
     <span class="listing-author "><%= item.author %></span>
-    <span class="listing-date">(<%= item.date %>)</span>
+    <span class="listing-year">(<%= item.year%>)</span>
     <span class="listing-title fw-bold"><%= item.title %>.</span>
     <span class="listing-publication fst-italic "><%= item.publication %>.</span>
-  
+  <span class="listing-volume "><%= item.volume %>:</span>
+  <span class="listing-pages "><%= item.pages %>.</span>
     </br>
     
     <div class="d-grid d-md-flex d-small justify-content-md-end">

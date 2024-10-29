@@ -1,6 +1,6 @@
 ---
 title: "Partnering for Greater Success: Local Stakeholders and Research in Tropical Biology and Conservation"
-date: "2009"
+year: "2009"
 author: ["Karen A. Kainer", "Maria L. DiGiano", "Amy E. Duchelle", "Lucia H. O. Wadt", "Emilio Bruna", "Jonathan L. Dain"]
 publication: "Biotropica"
 volume: "41"

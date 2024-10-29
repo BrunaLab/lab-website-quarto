@@ -1,6 +1,6 @@
 ---
 title: "Cooperative Colony Founding Alters the Outcome of Interspecific Competition between Amazonian Plant-Ants"
-date: "2009"
+year: "2009"
 author: ["T. J. Izzo", "E. M. Bruna", "H. L. Vasconcelos", "B. D. Inouye"]
 publication: "Insectes Sociaux"
 volume: "56"

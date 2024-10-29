@@ -1,6 +1,6 @@
 ---
 title: "The Geographical and Institutional Distribution of Ecological Research in the Tropics: The Geography of Tropical Ecology"
-date: "2008"
+year: "2008"
 author: ["Gabriela Stocks", "Lisa Seales", "Franklin Paniagua", "Erin Maehr", "Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "40"

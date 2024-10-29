@@ -1,6 +1,6 @@
 ---
 title: "Resilient Networks of Ant-Plant Mutualists in Amazonian Forest Fragments"
-date: "2012"
+year: "2012"
 author: ["Heather A. Passmore", "Emilio M. Bruna", "Sylvia M. Heredia", "Heraldo L. Vasconcelos"]
 publication: "PLoS ONE"
 volume: "7"

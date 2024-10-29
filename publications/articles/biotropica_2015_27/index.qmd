@@ -1,6 +1,6 @@
 ---
-title: "2015 Biotropica Awards for Excellence in Tropical Biology and Conservation"
-date: "2015"
+title: "2015 <i>Biotropica</i> Awards for Excellence in Tropical Biology and Conservation"
+year: "2015"
 author: ["Bruna, EM"]
 publication: "Biotropica"
 volume: "47"

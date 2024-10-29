@@ -1,6 +1,6 @@
 ---
 title: "Growth of an Understory Herb Is Chronically Reduced in Amazonian Forest Fragments"
-date: "2011"
+year: "2011"
 author: ["Paul R. Gagnon", "Emilio M. Bruna", "Paulo Rubim", "Maria Rosa Darrigo", "Ramon C. Littell", "Maria Uriarte", "W. John Kress"]
 publication: "Biological Conservation"
 volume: "144"

@@ -1,6 +1,6 @@
 ---
 title: "The Fate of Amazonian Forest Fragments: A 32-Year Investigation"
-date: "2011"
+year: "2011"
 author: ["William F. Laurance", "Jose L.C. Camargo", "Regina C.C. Luizao", "Susan G. Laurance", "Stuart L. Pimm", "Emilio M. Bruna", "Philip C. Stouffer", "G. Bruce Williamson", "Julieta Benitez-Malvido", "Heraldo L. Vasconcelos", "Kyle S. Van Houtan", "Charles E. Zartman", "Sarah A. Boyle", "Raphael K. Didham", "Ana Andrade", "Thomas E. Lovejoy"]
 publication: "Biological Conservation"
 volume: "144"

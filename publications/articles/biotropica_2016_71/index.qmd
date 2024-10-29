@@ -1,6 +1,6 @@
 ---
 title: "Neotropical White-sand Forests: Origins, Ecology and Conservation of a Unique Rain Forest Environment"
-date: "2016"
+year: "2016"
 author: ["Paul V. A. Fine", "Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "48"

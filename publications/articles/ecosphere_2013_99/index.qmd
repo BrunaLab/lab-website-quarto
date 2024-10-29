@@ -1,6 +1,6 @@
 ---
 title: "Seedling Co-Tolerance of Multiple Stressors in a Disturbed Tropical Floodplain Forest"
-date: "2013"
+year: "2013"
 author: ["Christine M. Lucas", "Emilio M. Bruna", "Cristiane M. N. Nascimento"]
 publication: "Ecosphere"
 volume: "4"

@@ -1,6 +1,6 @@
 ---
 title: "Characterization of 10 Microsatellite Markers for the Understorey Amazonian Herb \emphHeliconia\emph Acuminata"
-date: "2009"
+year: "2009"
 author: ["M. C. Cortes", "V. Gowda", "W. J. Kress", "E. M. Bruna", "M. Uriarte"]
 publication: "Molecular Ecology Resources"
 volume: "9"

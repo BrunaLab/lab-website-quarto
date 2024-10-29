@@ -1,6 +1,6 @@
 ---
-title: "Do an Ecosystem Engineer and Environmental Gradient Act Independently or in Concert to Shape Juvenile Plant Communities? Tests with the Leaf-Cutter Ant Atta Laevigata in a Neotropical Savanna"
-date: "2018"
+title: "Do an Ecosystem Engineer and Environmental Gradient Act Independently or in Concert to Shape Juvenile Plant Communities? Tests with the Leaf-Cutter Ant <i>Atta laevigata</i> in a Neotropical Savanna"
+year: "2018"
 author: ["Alan N. Costa", "Emilio M. Bruna", "Heraldo L. Vasconcelos"]
 publication: "PeerJ"
 volume: "6"

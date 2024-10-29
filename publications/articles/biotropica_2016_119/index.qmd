@@ -1,6 +1,6 @@
 ---
 title: "Land Use, Fallow Period and the Recovery of a Caatinga Forest"
-date: "2016"
+year: "2016"
 author: ["Mellissa S. Sobrinho", "Marcelo Tabarelli", "Isabel C. Machado", "Julia C. Sfair", "Emilio M. Bruna", "Ariadna V. Lopes"]
 publication: "Biotropica"
 volume: "48"

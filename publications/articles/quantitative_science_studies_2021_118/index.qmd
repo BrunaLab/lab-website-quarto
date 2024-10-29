@@ -1,6 +1,6 @@
 ---
 title: "Assessing the Effect of Article Processing Charges on the Geographic Diversity of Authors Using Elsevier's “Mirror Journal” System"
-date: "2021"
+year: "2021"
 author: ["Audrey C. Smith", "Leandra Merz", "Jesse B. Borden", "Chris K. Gulick", "Akhil R. Kshirsagar", "Emilio M. Bruna"]
 publication: "Quantiative Science Studies"
 volume: "2"

@@ -1,6 +1,6 @@
 ---
-title: "2010 Biotropica Award for Excellence in Tropical Biology and Conservation: Biotropica Award for Excellence in Tropical Biology and Conservation"
-date: "2010"
+title: "2010 <i>Biotropica</i> Award for Excellence in Tropical Biology and Conservation"
+year: "2010"
 author: ["Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "42"
@@ -16,5 +16,5 @@ url_preprint: ""
 url_code: ""
 url_dataset: ""
 bib: './articles/biotropica_2010_7/cite.bib'
-pdf: './articles/biotropica_2010_7/2010_2010_Biotropica_Award_for_Excellence_in_Tropical_Bpdf.pdf'
+pdf: './articles/biotropica_2010_7/bruna_biotropica_2010.pdf'
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Recognition of Host Plant Volatiles by ¡i¿pheidole Minutula¡/I¿ Mayr (Myrmicinae), an Amazonian Ant-Plant Specialist"
-date: "2009"
+title: "Recognition of Host Plant Volatiles by <i>Pheidole minutula</i> Mayr (Myrmicinae), an Amazonian Ant-Plant Specialist"
+year: "2009"
 author: ["Wesley Dattilo", "Thiago J. Izzo", "Brian D. Inouye", "Heraldo L. Vasconcelos", "Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "41"

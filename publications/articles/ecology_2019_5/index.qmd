@@ -1,6 +1,6 @@
 ---
 title: "Statistical Modeling of Patterns in Annual Reproductive Rates"
-date: "2019"
+year: "2019"
 author: ["Mollie E. Brooks", "Kasper Kristensen", "Maria Rosa Darrigo", "Paulo Rubim", "Maria Uriarte", "Emilio Bruna", "Benjamin M. Bolker"]
 publication: "Ecology"
 volume: "100"

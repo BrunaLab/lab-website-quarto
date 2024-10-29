@@ -1,6 +1,6 @@
 ---
 title: "Seed Predators Limit Plant Recruitment in Neotropical Savannas"
-date: "2011"
+year: "2011"
 author: ["Alana Vaz Ferreira", "Emilio M. Bruna", "Heraldo L. Vasconcelos"]
 publication: "Oikos"
 volume: "120"

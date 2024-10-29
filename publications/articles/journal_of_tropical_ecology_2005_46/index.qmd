@@ -1,13 +1,13 @@
 ---
-title: "Regeneration and Population Structure of \emphHeliconia\emph Acuminata in Amazonian Secondary Forests with Contrasting Land-Use Histories"
-date: "2005"
+title: "Regeneration and Population Structure of <i>Heliconia acuminata</i> in Amazonian Secondary Forests with Contrasting Land-Use Histories"
+year: "2005"
 author: ["Emilio M. Bruna", "Maria Beatriz Nogueira Ribeiro"]
 publication: "Journal of Tropical Ecology"
 volume: "21"
 number: "1"
 pages: "127-131"
 doi: "10.1017/S0266467404002007"
-abstract: "An estimated 154 million ha of tropical forest are cleared each year by human activities such as cattle ranching and agriculture (Whitmore 1997). When the economic return of these sites declines, they are often abandoned and allowed to regenerate. As a result, ‘secondary’ or ‘regenerating’ forests are becoming an increasingly common feature in tropical landscapes (Guariguata & Ostertag 2001). Unlike treefall gaps and other ‘naturally’ disturbed areas, the regeneration of secondary forests on anthropogenically disturbed lands does not always follow a predictable pathway (reviewed in Guariguata & Ostertag 2001). Instead, the type and intensity of post-clearing land use has major implications for the trajectory along which succession proceeds (Guariguata & Ostertag 2001, Mesquita               et al               . 2001, Uhl               et al               . 1988)."
+abstract: "An estimated 154 million ha of tropical forest are cleared each year by human activities such as cattle ranching and agriculture (Whitmore 1997). When the economic return of these sites declines, they are often abandoned and allowed to regenerate. As a result, ‘secondary’ or ‘regenerating’ forests are becoming an increasingly common feature in tropical landscapes (Guariguata & Ostertag 2001). Unlike treefall gaps and other ‘naturally’ disturbed areas, the regeneration of secondary forests on anthropogenically disturbed lands does not always follow a predictable pathway (reviewed in Guariguata & Ostertag 2001). Instead, the type and intensity of post-clearing land use has major implications for the trajectory along which succession proceeds (Guariguata & Ostertag 2001, Mesquita et al. 2001, Uhl et al. 1988)."
 categories: 
   - abandoned pastures
   - dispersal

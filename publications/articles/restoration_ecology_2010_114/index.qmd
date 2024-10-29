@@ -1,6 +1,6 @@
 ---
 title: "Influence of Post-Clearing Treatment on the Recovery of Herbaceous Plant Communities in Amazonian Secondary Forests"
-date: "2010"
+year: "2010"
 author: ["Maria Beatriz N. Ribeiro", "Emilio M. Bruna", "Waldir Mantovani"]
 publication: "Restoration Ecology"
 volume: "18"

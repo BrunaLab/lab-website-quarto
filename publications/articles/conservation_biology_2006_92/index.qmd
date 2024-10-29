@@ -1,6 +1,6 @@
 ---
 title: "A Graduate Education Framework for Tropical Conservation and Development"
-date: "2006"
+year: "2006"
 author: ["K. A. Kainer", "M. Schmink", "H. Covert", "J. R. Stepp", "E. M. Bruna", "J. L. Dain", "S. Espinosa", "S. Humphries"]
 publication: "Conservation Biology"
 volume: "20"

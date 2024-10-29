@@ -1,6 +1,6 @@
 ---
 title: "Scientific Journals Can Advance Tropical Biology and Conservation by Requiring Data Archiving"
-date: "2010"
+year: "2010"
 author: ["Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "42"

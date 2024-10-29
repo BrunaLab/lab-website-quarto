@@ -1,6 +1,6 @@
 ---
 title: "Effects of Experimental Nitrogen Enrichment on Soil Properties and Litter Decomposition in a Neotropical Savanna"
-date: "2020"
+year: "2020"
 author: ["Laura Vivian Barbosa Silva", "Heraldo L. Vasconcelos", "Michelle C. Mack", "Adao de Siqueira Ferreira", "Emilio M. Bruna"]
 publication: "Austral Ecology"
 volume: "45"

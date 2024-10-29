@@ -1,6 +1,6 @@
 ---
 title: "Demographic Effects of Habitat Fragmentation on a Tropical Herb: Life-Table Response Experiments"
-date: "2005"
+year: "2005"
 author: ["Emilio M. Bruna", "Madan K. Oli"]
 publication: "Ecology"
 volume: "86"

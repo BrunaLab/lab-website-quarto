@@ -1,6 +1,6 @@
 ---
 title: "Mudanças Fitofisionômicas No Cerrado: 18 Anos de Sucesão Ecológica Na Estação Ecológica Do Panga, Uberlândia, MG."
-date: "2009"
+year: "2009"
 author: ["E. Cardoso", "E. M. Cruzeiro Moreno M. I. Bruna", "H. L. Vasconcelos"]
 publication: "Caminhos de Geografia"
 volume: "10"

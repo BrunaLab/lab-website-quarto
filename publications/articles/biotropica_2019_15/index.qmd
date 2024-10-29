@@ -1,6 +1,6 @@
 ---
 title: "Biotropica: The next 50 Years"
-date: "2019"
+year: "2019"
 author: ["Emilio M. Bruna"]
 publication: "Biotropica"
 volume: "51"

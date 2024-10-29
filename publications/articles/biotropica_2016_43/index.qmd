@@ -1,6 +1,6 @@
 ---
-title: "A New Data Archiving Policy for \emphBiotropica"
-date: "2016"
+title: "A New Data Archiving Policy for <i>Biotropica</i>"
+year: "2016"
 author: ["Emilio M. Bruna", "Marielos Pena-Claros", "Bryan Finegan", "Beth A. Kaplin"]
 publication: "Biotropica"
 volume: "48"

@@ -1,6 +1,6 @@
 ---
 title: "Short-Term Effects of Elevated Precipitation and Nitrogen on Soil Fertility and Plant Growth in a Neotropical Savanna"
-date: "2012"
+year: "2012"
 author: ["Stella M. Copeland", "Emilio M. Bruna", "Laura V. Barbosa Silva", "Michelle C. Mack", "Heraldo L. Vasconcelos"]
 publication: "Ecosphere"
 volume: "3"

@@ -1,6 +1,6 @@
 ---
 title: "A Persistent Lack of International Representation on Editorial Boards in Environmental Biology"
-date: "2017"
+year: "2017"
 author: ["Johanna Espin", "Sebastian Palmas", "Farah Carrasco-Rueda", "Kristina Riemer", "Pablo E. Allen", "Nathan Berkebile", "Kirsten A. Hecht", "Kay Kastner-Wilcox", "Mauricio M. Nunez-Regueiro", "Candice Prince", "Constanza Rios", "Erica Ross", "Bhagatveer Sangha", "Tia Tyler", "Judit Ungvari-Martin", "Mariana Villegas", "Tara T. Cataldo", "Emilio M. Bruna"]
 publication: "PLoS Biology"
 volume: "15"

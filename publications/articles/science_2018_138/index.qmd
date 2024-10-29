@@ -1,6 +1,6 @@
 ---
 title: "Lack of Science Support Fails Brazil"
-date: "2018"
+year: "2018"
 author: ["Kelly R. Zamudio", "Alexander Kellner", "Cristiana Serejo", "Marcelo Ribeiro de Britto", "Clovis B. Castro", "Paulo A. Buckup", "Debora O. Pires", "Marcia Couri", "Adriano Brilhante Kury", "Irene Azevedo Cardoso", "Marcela L. Monne", "Jose Pombal", "Catia Mello Patiu", "Vinicius Padula", "Alexandre Dias Pimenta", "Carlos Renato Rezende Ventura", "Eduardo Hajdu", "Joana Zanol", "Emilio M. Bruna", "John Fitzpatrick", "Luiz A. Rocha"]
 publication: "Science"
 volume: "361"

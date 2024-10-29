@@ -1,6 +1,6 @@
 ---
 title: "Effect of Mutualist Partner Identity on Plant Demography"
-date: "2014"
+year: "2014"
 author: ["Emilio M. Bruna", "Thiago J. Izzo", "Brian D. Inouye", "Heraldo L. Vasconcelos"]
 publication: "Ecology"
 volume: "95"

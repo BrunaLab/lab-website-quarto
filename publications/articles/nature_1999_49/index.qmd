@@ -1,6 +1,6 @@
 ---
 title: "Seed Germination in Rainforest Fragments"
-date: "1999"
+year: "1999"
 author: ["Emilio M. Bruna"]
 publication: "Nature"
 volume: "402"

@@ -1,0 +1,20 @@
+---
+title: "Forest Fragments and Tropical Plant Reproduction in Amazonian Brazil."
+year: "2005"
+author: ["E. M. Bruna", "W. J. Kress"]
+publication: "Plant Conservation: A Natural History Approach"
+volume: "none"
+number: "none"
+pages: "141-146"
+doi: "none"
+abstract: "none"
+categories: 
+  - 
+url: "none"
+image: featured.png
+url_preprint: ""
+url_code: ""
+url_dataset: ""
+bib: './articles/pc_2005_32/cite.bib'
+pdf: './articles/pc_2005_32/.pdf'
+---

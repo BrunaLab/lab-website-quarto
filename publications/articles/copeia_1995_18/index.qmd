@@ -1,6 +1,6 @@
 ---
-title: "Cryptic Species of Pacific Skinks (Emoia): Further Support from Mitochondrial DNA Sequences"
-date: "1995"
+title: "Cryptic Species of Pacific Skinks (<i>Emoia</i>): Further Support from Mitochondrial DNA Sequences"
+year: "1995"
 author: ["Emilio M. Bruna", "Robert N. Fisher", "Ted J. Case"]
 publication: "Copeia"
 volume: "1995"

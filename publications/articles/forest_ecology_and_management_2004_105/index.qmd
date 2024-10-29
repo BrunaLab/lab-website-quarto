@@ -1,6 +1,6 @@
 ---
 title: "Experimental Harvesting of the Non-Timber Forest Product Ischnosiphon Polyphyllus in Central Amazonia"
-date: "2004"
+year: "2004"
 author: ["Erika M Nakazono", "Emilio M Bruna", "Rita C.G Mesquita"]
 publication: "Forest Ecology and Management"
 volume: "190"

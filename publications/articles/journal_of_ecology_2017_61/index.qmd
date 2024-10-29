@@ -1,6 +1,6 @@
 ---
 title: "Biotic Drivers of Seedling Establishment in Neotropical Savannas: Selective Granivory and Seedling Herbivory by Leaf-Cutter Ants as an Ecological Filter"
-date: "2017"
+year: "2017"
 author: ["Alan N. Costa", "Heraldo L. Vasconcelos", "Emilio M. Bruna"]
 publication: "Journal of Ecology"
 volume: "105"

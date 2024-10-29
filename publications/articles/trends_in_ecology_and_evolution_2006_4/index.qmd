@@ -1,6 +1,6 @@
 ---
 title: "Demography in an Increasingly Variable World"
-date: "2006"
+year: "2006"
 author: ["M Boyce", "C Haridas", "C Lee", "Thenceasstochasticdemographyw"]
 publication: "Trends in Ecology and Evolution"
 volume: "21"

@@ -1,6 +1,6 @@
 ---
-title: "Contrasting Responses to Induction Cues by Ants Inhabiting Maieta Guianensis (Melastomataceae)"
-date: "2003"
+title: "Contrasting Responses to Induction Cues by Ants Inhabiting <i>Maieta guianensis</i> (Melastomataceae)"
+year: "2003"
 author: ["David M. Lapola", "Emilio M. Bruna", "Heraldo L. Vasconcelos"]
 publication: "Biotropica"
 volume: "35"
@@ -16,5 +16,5 @@ url_preprint: ""
 url_code: ""
 url_dataset: ""
 bib: './articles/biotropica_2003_96/cite.bib'
-pdf: './articles/biotropica_2003_96/Lapola_et_al_2003_Biotropicapdf_NA.pdf'
+pdf: './articles/biotropica_2003_96/Lapola_et_al_2003_Biotropica.pdf'
 ---

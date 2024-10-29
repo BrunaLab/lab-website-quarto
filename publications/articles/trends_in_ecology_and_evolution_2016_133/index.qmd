@@ -1,6 +1,6 @@
 ---
 title: "A Balanced Data Archiving Policy for Long-Term Studies"
-date: "2016"
+year: "2016"
 author: ["Michael C. Whitlock", "Judith L. Bronstein", "Emilio M. Bruna", "Aaron M. Ellison", "Charles W. Fox", "Mark A. McPeek", "Allen J. Moore", "Mohamed A.F. Noor", "Mark D. Rausher", "Loren H. Rieseberg", "Michael G. Ritchie", "Ruth G. Shaw"]
 publication: "Trends in Ecology and Evolution"
 volume: "31"

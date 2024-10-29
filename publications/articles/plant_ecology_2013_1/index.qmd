@@ -1,6 +1,6 @@
 ---
 title: "Fire Drives the Reproductive Responses of Herbaceous Plants in a Neotropical Swamp"
-date: "2013"
+year: "2013"
 author: ["Glein M. Araujo", "Alice F. Amaral", "Emilio M. Bruna", "Heraldo L. Vasconcelos"]
 publication: "Plant Ecology"
 volume: "214"

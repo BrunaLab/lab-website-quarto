@@ -1,6 +1,6 @@
 ---
 title: "The Effect of Habitat Fragmentation on Communities of Mutualists: Amazonian Ants and Their Host Plants"
-date: "2005"
+year: "2005"
 author: ["Emilio M. Bruna", "Heraldo L. Vasconcelos", "Sylvia Heredia"]
 publication: "Biological Conservation"
 volume: "124"

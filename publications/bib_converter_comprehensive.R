@@ -522,6 +522,21 @@ apply(mypubs, FUN = function(x) create_qmd(x), MARGIN = 1)
 # }
 
 
+article_folder <- "./publications/articles"
+list.of.files <- list.files("./publications/articles")
+
+
+for (i in seq_along(list.of.files)) {
+theFiles <- paste("./publications/articles/",list.of.files[i],"/index.qmd",sep="")
+pubdata<-read_lines(theFiles)
+pubdata<-gsub("date:","year:",pubdata)
+write_lines(pubdata,file=theFiles)
+}
+
+
+
+
+
 # # To rename the pdfs
 # # directory<-"./EMB_publications/files"
 # path = "./publications/articles/"

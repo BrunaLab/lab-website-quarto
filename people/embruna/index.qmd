@@ -2,10 +2,10 @@
 title: &TITLE Emilio M. Bruna
 last: Bruna
 first: Emilio
-people_group: current
+people_group: pi
 email: "embruna@ufl.edu"
 education:
-  - <b>Ph.D. in Population Biology</b>, University of California, Davis<br><b>M.S. in Biology</b>, University of California, San Diego<br><b>B.S. in Ecology, Behavior, & Evolution</b>, University of California, San Diego
+  - <b>Ph.D., Population Biology (2001)</b><br>University of California, Davis<br><b>M.S., Biology (1995)</b><br>University of California, San Diego<br><b>B.S., Ecology, Behavior, & Evolution (1994)</b><br>University of California, San Diego
 subtitle: "Professor & Distinguished Teaching Scholar"
 description: ""
 affiliation: University of Florida

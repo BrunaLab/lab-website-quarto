@@ -1,6 +1,6 @@
 ---
 title: "The Prominent Role of the Matrix in Ecology, Evolution, and Conservation"
-date: "in press"
+year: "in press"
 author: ["Robert J. Fletcher", "Thomas A. H. Smith", "Savannah Troy", "Nicholas Kortessis", "Edgar C. Turner", "Emilio M. Bruna", "Robert D. Holt"]
 publication: "Annual Review of Ecology, Evolution, and Systematics"
 volume: "none"

@@ -1,6 +1,6 @@
 ---
-title: "Low Plant Density Enhances Gene Dispersal in the Amazonian Understory Herb Heliconia Acuminata"
-date: "2013"
+title: "Low Plant Density Enhances Gene Dispersal in the Amazonian Understory Herb <i>Heliconia acuminata</i>"
+year: "2013"
 author: ["Marina C. Cortes", "Maria Uriarte", "Maristerra R. Lemes", "Rogerio Gribel", "W. John Kress", "Peter E. Smouse", "Emilio M. Bruna"]
 publication: "Molecular Ecology"
 volume: "22"

@@ -1,6 +1,6 @@
 ---
 title: "Promoting Transparency in Evolutionary Biology and Ecology"
-date: "2016"
+year: "2016"
 author: ["T. H. Parker", "S. Nakagawa", "J. Gurevitch", "IIEE (Improving Inference in Evolutionary Biology", "cology) workshop participants"]
 publication: "Ecology Letters"
 volume: "19"

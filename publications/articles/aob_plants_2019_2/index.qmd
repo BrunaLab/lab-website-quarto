@@ -1,6 +1,6 @@
 ---
 title: "Employing Plant Functional Groups to Advance Seed Dispersal Ecology and Conservation"
-date: "2019"
+year: "2019"
 author: ["Clare Aslan", "Noelle G Beckman", "Haldre S Rogers", "Judie Bronstein", "Damaris Zurell", "Florian Hartig", "Katriona Shea", "Liba Pejchar", "Mike Neubert", "John Poulsen", "Janneke HilleRisLambers", "Maria Miriti", "Bette Loiselle", "Edu Effiom", "Jenny Zambrano", "Geno Schupp", "Gesine Pufal", "Jeremy Johnson", "James M Bullock", "Jedediah Brodie", "Emilio Bruna", "Robert Stephen Cantrell", "Robin Decker", "Evan Fricke", "Katie Gurski", "Alan Hastings", "Oleg Kogan", "Onja Razafindratsima", "Manette Sandor", "Sebastian Schreiber", "Rebecca Snell", "Christopher Strickland", "Ying Zhou"]
 publication: "AoB PLANTS"
 volume: "11"
