@@ -17,7 +17,7 @@ image: featured.jpeg
 
 _Undergraduate Course_, _3 credits_, _Fall Semester_  
 
-## Link to Course Website  
+<!-- ## Link to Course Website   -->
 
 <a class="btn btn-primary" href="https://ids2935.netlify.app/" role="button">Link to Course Website</a>. 
 
